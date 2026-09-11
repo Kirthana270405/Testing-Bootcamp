@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-11T23:24:13 IST" name="Default suite" finished-at="2026-09-11T23:25:37 IST" duration-ms="84403">
+    <groups>
+    </groups>
+    <test started-at="2026-09-11T23:24:13 IST" name="Default test" finished-at="2026-09-11T23:25:37 IST" duration-ms="84403">
+      <class name="SeleniumPackage.BrowserCommands">
+        <test-method signature="ChromeBrowserTest()[pri:0, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:13 IST" name="ChromeBrowserTest" finished-at="2026-09-11T23:24:18 IST" duration-ms="5007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowserTest -->
+        <test-method signature="EdgeBrowserTest()[pri:1, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:18 IST" name="EdgeBrowserTest" finished-at="2026-09-11T23:24:23 IST" duration-ms="5143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest -->
+        <test-method signature="FirefoxBrowserTest1()[pri:2, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:23 IST" name="FirefoxBrowserTest1" finished-at="2026-09-11T23:24:32 IST" duration-ms="9091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest1 -->
+        <test-method signature="FirefoxBrowserTest2()[pri:3, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:32 IST" name="FirefoxBrowserTest2" finished-at="2026-09-11T23:24:43 IST" duration-ms="10477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest2 -->
+        <test-method signature="FirefoxBrowserTest3()[pri:4, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:43 IST" name="FirefoxBrowserTest3" finished-at="2026-09-11T23:24:50 IST" duration-ms="6820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest3 -->
+        <test-method signature="FirefoxBrowserTest4()[pri:5, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:50 IST" name="FirefoxBrowserTest4" finished-at="2026-09-11T23:24:55 IST" duration-ms="5388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest4 -->
+        <test-method signature="FirefoxBrowserTest5()[pri:6, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:24:55 IST" name="FirefoxBrowserTest5" finished-at="2026-09-11T23:25:04 IST" duration-ms="9476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest5 -->
+        <test-method signature="FirefoxBrowserTest6()[pri:7, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:25:04 IST" name="FirefoxBrowserTest6" finished-at="2026-09-11T23:25:11 IST" duration-ms="6629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest6 -->
+        <test-method signature="FirefoxBrowserTest7()[pri:8, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:25:11 IST" name="FirefoxBrowserTest7" finished-at="2026-09-11T23:25:18 IST" duration-ms="6614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest7 -->
+        <test-method signature="FirefoxBrowserTest8()[pri:9, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:25:18 IST" name="FirefoxBrowserTest8" finished-at="2026-09-11T23:25:25 IST" duration-ms="6810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest8 -->
+        <test-method signature="FirefoxBrowserTest()[pri:10, instance:SeleniumPackage.BrowserCommands@47caedad]" started-at="2026-09-11T23:25:25 IST" name="FirefoxBrowserTest" finished-at="2026-09-11T23:25:37 IST" duration-ms="12773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest -->
+      </class> <!-- SeleniumPackage.BrowserCommands -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

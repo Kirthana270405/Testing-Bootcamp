@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-07T13:25:47 IST" name="Default suite" finished-at="2026-09-07T13:26:47 IST" duration-ms="59584">
+    <groups>
+    </groups>
+    <test started-at="2026-09-07T13:25:47 IST" name="Default test" finished-at="2026-09-07T13:26:47 IST" duration-ms="59584">
+      <class name="SeleniumCICDPackage.BrowserCommands">
+        <test-method signature="ChromeBrowser1()[pri:0, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:25:47 IST" name="ChromeBrowser1" finished-at="2026-09-07T13:25:51 IST" duration-ms="4009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser1 -->
+        <test-method signature="EdgeBrowser1()[pri:1, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:25:51 IST" name="EdgeBrowser1" finished-at="2026-09-07T13:25:55 IST" duration-ms="3841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser1 -->
+        <test-method signature="FirefoxBrowser1()[pri:2, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:25:55 IST" name="FirefoxBrowser1" finished-at="2026-09-07T13:26:02 IST" duration-ms="6611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowser1 -->
+        <test-method signature="FirefoxBrowser2()[pri:3, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:02 IST" name="FirefoxBrowser2" finished-at="2026-09-07T13:26:07 IST" duration-ms="5206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowser2 -->
+        <test-method signature="EdgeBrowser2()[pri:4, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:07 IST" name="EdgeBrowser2" finished-at="2026-09-07T13:26:11 IST" duration-ms="3696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser2 -->
+        <test-method signature="FirefoxBrowser3()[pri:5, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:11 IST" name="FirefoxBrowser3" finished-at="2026-09-07T13:26:18 IST" duration-ms="7136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowser3 -->
+        <test-method signature="EdgeBrowser3()[pri:6, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:18 IST" name="EdgeBrowser3" finished-at="2026-09-07T13:26:28 IST" duration-ms="9761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser3 -->
+        <test-method signature="FirefoxBrowser4()[pri:7, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:28 IST" name="FirefoxBrowser4" finished-at="2026-09-07T13:26:34 IST" duration-ms="6658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowser4 -->
+        <test-method signature="EdgeBrowser4()[pri:8, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:34 IST" name="EdgeBrowser4" finished-at="2026-09-07T13:26:38 IST" duration-ms="3980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser4 -->
+        <test-method signature="EdgeBrowser5()[pri:9, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:38 IST" name="EdgeBrowser5" finished-at="2026-09-07T13:26:43 IST" duration-ms="4872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser5 -->
+        <test-method signature="EdgeBrowser6()[pri:10, instance:SeleniumCICDPackage.BrowserCommands@7eecb5b8]" started-at="2026-09-07T13:26:43 IST" name="EdgeBrowser6" finished-at="2026-09-07T13:26:47 IST" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser6 -->
+      </class> <!-- SeleniumCICDPackage.BrowserCommands -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

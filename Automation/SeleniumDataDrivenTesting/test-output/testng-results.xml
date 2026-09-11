@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-09T10:33:31 IST" name="Default suite" finished-at="2026-09-09T10:34:17 IST" duration-ms="45624">
+    <groups>
+    </groups>
+    <test started-at="2026-09-09T10:33:31 IST" name="Default test" finished-at="2026-09-09T10:34:17 IST" duration-ms="45624">
+      <class name="DDTCsvFile.CSVFileReading">
+        <test-method is-config="true" signature="setup()[pri:0, instance:DDTCsvFile.CSVFileReading@43bc63a3]" started-at="2026-09-09T10:33:31 IST" name="setup" finished-at="2026-09-09T10:33:37 IST" duration-ms="5459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DDTestingBlog()[pri:0, instance:DDTCsvFile.CSVFileReading@43bc63a3]" started-at="2026-09-09T10:33:37 IST" name="DDTestingBlog" finished-at="2026-09-09T10:34:16 IST" duration-ms="39686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDTestingBlog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDTCsvFile.CSVFileReading@43bc63a3]" started-at="2026-09-09T10:34:16 IST" name="tearDown" finished-at="2026-09-09T10:34:17 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DDTCsvFile.CSVFileReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
