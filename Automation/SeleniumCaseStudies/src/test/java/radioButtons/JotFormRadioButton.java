@@ -1,13 +1,13 @@
 package radioButtons;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class JotFormRadioButton {
 
     @Test
-
     public void TestRadioBtn() throws Exception {
 
         ChromeDriver driver = new ChromeDriver();
@@ -18,17 +18,34 @@ public class JotFormRadioButton {
 
         Thread.sleep(5000);
 
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+
+        js.executeScript(
+                "arguments[0].scrollIntoView({block:'center'});",
+                driver.findElement(By.xpath("//label[@for='input_25_0']"))
+        );
+
         driver.findElement(By.xpath("//label[@for='input_25_0']")).click();
 
-        Thread.sleep(5000);
+        Thread.sleep(2000);
+
+        js.executeScript(
+                "arguments[0].scrollIntoView({block:'center'});",
+                driver.findElement(By.xpath("//label[@for='input_25_1']"))
+        );
 
         driver.findElement(By.xpath("//label[@for='input_25_1']")).click();
 
-        Thread.sleep(5000);
+        Thread.sleep(2000);
+
+        js.executeScript(
+                "arguments[0].scrollIntoView({block:'center'});",
+                driver.findElement(By.xpath("//label[@for='input_25_2']"))
+        );
 
         driver.findElement(By.xpath("//label[@for='input_25_2']")).click();
 
-        Thread.sleep(5000);
+        Thread.sleep(2000);
 
         int radiobtn = driver.findElements(
                 By.xpath("//input[@type='radio']")
@@ -39,5 +56,4 @@ public class JotFormRadioButton {
         driver.quit();
 
     }
-
 }
