@@ -1,0 +1,1062 @@
+{
+  "info": {
+    "_postman_id": "baa526b8-cc1f-4725-ba5c-8c5e2fb8b678",
+    "name": "CBIT-API Testing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56921881",
+    "_collection_link": "https://go.postman.co/collection/56921881-baa526b8-cc1f-4725-ba5c-8c5e2fb8b678?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET Request Method",
+      "item": [
+        {
+          "name": "GET Request - AutomationExercise",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/productsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "productsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - JSON Placeholder",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - JSON Placeholder2",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - JSON Placeholder3",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/1/comments",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "1",
+                "comments"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - JSON Placeholder4",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/comments?postId=1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "comments"
+              ],
+              "query": [
+                {
+                  "key": "postId",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - AutomationExercise2",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/brandsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "brandsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - AutomationExercise3",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/getUserDetailByEmail",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "getUserDetailByEmail"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - Dummy JSON",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://dummy-json.mock.beeceptor.com/todos",
+              "protocol": "https",
+              "host": [
+                "dummy-json",
+                "mock",
+                "beeceptor",
+                "com"
+              ],
+              "path": [
+                "todos"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - Dummy JSON2",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://dummy-json.mock.beeceptor.com/posts",
+              "protocol": "https",
+              "host": [
+                "dummy-json",
+                "mock",
+                "beeceptor",
+                "com"
+              ],
+              "path": [
+                "posts"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET Request - Dummy JSON3",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://dummy-json.mock.beeceptor.com/continents",
+              "protocol": "https",
+              "host": [
+                "dummy-json",
+                "mock",
+                "beeceptor",
+                "com"
+              ],
+              "path": [
+                "continents"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "POST Request Method",
+      "item": [
+        {
+          "name": "Automation POST Request - ProductsList",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/productsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "productsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Automation POST Request - SearchProduct",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "search_product",
+                  "value": "top"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/searchProduct",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "searchProduct"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Automation POST Request - Verify Login",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "email",
+                  "value": "kkirthi@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Test@12345"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/verifyLogin",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "verifyLogin"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Automation POST Request-CreateAccount",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "",
+                  "value": ""
+                },
+                {
+                  "key": "name",
+                  "value": "Kirthi"
+                },
+                {
+                  "key": "email",
+                  "value": "kkirthi@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Test@12345"
+                },
+                {
+                  "key": "title",
+                  "value": "Ms"
+                },
+                {
+                  "key": "birth_date",
+                  "value": "27"
+                },
+                {
+                  "key": "birth_month",
+                  "value": "04"
+                },
+                {
+                  "key": "birth_year",
+                  "value": "2005"
+                },
+                {
+                  "key": "\n",
+                  "value": "Kirthi",
+                  "disabled": true
+                },
+                {
+                  "key": "lastname",
+                  "value": "Konduru"
+                },
+                {
+                  "key": "company",
+                  "value": "Coforge"
+                },
+                {
+                  "key": "address1",
+                  "value": "MotiNagar"
+                },
+                {
+                  "key": "address2",
+                  "value": "MadhuraNagar"
+                },
+                {
+                  "key": "country",
+                  "value": "India"
+                },
+                {
+                  "key": "zipcode",
+                  "value": "500018"
+                },
+                {
+                  "key": "state",
+                  "value": "Telangana"
+                },
+                {
+                  "key": "city",
+                  "value": "Hyderabad"
+                },
+                {
+                  "key": "mobile_number",
+                  "value": "8074516435"
+                },
+                {
+                  "key": "firstname",
+                  "value": "Kirthi"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/createAccount",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "createAccount"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - posts",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - comments",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/comments",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "comments"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request -albums",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/albums",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "albums"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - photos",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/photos",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "photos"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - todos",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/todos",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "todos"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - users",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/users",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "users"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request - dummyjson posts",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://dummy-json.mock.beeceptor.com/posts",
+              "protocol": "https",
+              "host": [
+                "dummy-json",
+                "mock",
+                "beeceptor",
+                "com"
+              ],
+              "path": [
+                "posts"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "FakestoreAPI- POST Method",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 10,\r\n  \"title\": \"API Testing\",\r\n  \"price\": 12345,\r\n  \"description\": \"Postman API\",\r\n  \"category\": \"Automation Testing\",\r\n  \"image\": \"https://fakestoreapi.com\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://fakestoreapi.com/products",
+              "protocol": "https",
+              "host": [
+                "fakestoreapi",
+                "com"
+              ],
+              "path": [
+                "products"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "PUT Request Method",
+      "item": [
+        {
+          "name": "PUT Request- BrandList",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/brandsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "brandsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request - UpdateAccount",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "name",
+                  "value": "Kirthi"
+                },
+                {
+                  "key": "email",
+                  "value": "kkirthi@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Test@12345"
+                },
+                {
+                  "key": "title",
+                  "value": "Ms"
+                },
+                {
+                  "key": "birth_date",
+                  "value": "27"
+                },
+                {
+                  "key": "birth_month",
+                  "value": "04"
+                },
+                {
+                  "key": "birth_year",
+                  "value": "2005"
+                },
+                {
+                  "key": "firstname",
+                  "value": "Kirthi"
+                },
+                {
+                  "key": "lastname",
+                  "value": "Konduru"
+                },
+                {
+                  "key": "company",
+                  "value": "Coforge Limited"
+                },
+                {
+                  "key": "address1",
+                  "value": "MotiNagar"
+                },
+                {
+                  "key": "address2",
+                  "value": "MadhuraNagar"
+                },
+                {
+                  "key": "country",
+                  "value": "India"
+                },
+                {
+                  "key": "city",
+                  "value": "Hyderabad"
+                },
+                {
+                  "key": "state",
+                  "value": "Telangana"
+                },
+                {
+                  "key": "zipcode",
+                  "value": "50003"
+                },
+                {
+                  "key": "mobile_number",
+                  "value": "8074516435"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/updateAccount",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "updateAccount"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request- posts1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request-posts2",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/2",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "2"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request-posts3",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request-comments1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request - albums1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request-photos1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request-albums1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "PUT Request -users1",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Fakestoreapi PUT Request -products",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 10,\r\n  \"title\": \"API Testing\",\r\n  \"price\": 12345,\r\n  \"description\": \"Postman API\",\r\n  \"category\": \"Automation Testing\",\r\n  \"image\": \"https://fakestoreapi.com\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://fakestoreapi.com/products",
+              "protocol": "https",
+              "host": [
+                "fakestoreapi",
+                "com"
+              ],
+              "path": [
+                "products"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "DELETE Request Method",
+      "item": [
+        {
+          "name": "DELETE Request-VerifyLogin",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/verifyLogin",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "verifyLogin"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request -DeleteAccount",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/deleteAccount",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "deleteAccount"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request -posts1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request -posts2",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/2",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "2"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request -posts3",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts/3",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts",
+                "3"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request - comments1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/comments/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "comments",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request - albums1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/albums/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "albums",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request-photos1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/photos/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "photos",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request-todos1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/todos/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "todos",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "DELETE Request- users1",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/users/1",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "users",
+                "1"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
