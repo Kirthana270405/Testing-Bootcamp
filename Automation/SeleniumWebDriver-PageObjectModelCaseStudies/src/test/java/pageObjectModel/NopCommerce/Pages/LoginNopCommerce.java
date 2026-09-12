@@ -1,9 +1,7 @@
 package pageObjectModel.NopCommerce.Pages;
 
 import org.openqa.selenium.WebDriver;
-
 import org.openqa.selenium.WebElement;
-
 import org.openqa.selenium.support.FindBy;
 
 public class LoginNopCommerce {
@@ -16,19 +14,21 @@ public class LoginNopCommerce {
 
     }
 
-    @FindBy(id="Email")
+    @FindBy(id = "Email")
     WebElement email;
 
-    @FindBy(id="Password")
+    @FindBy(id = "Password")
     WebElement password;
 
-    @FindBy(xpath="//button[contains(text(),'Log in')]")
+    @FindBy(xpath = "//button[@type='submit']")
     WebElement loginbtn;
 
     public void login_NopCommerce(String uname, String pass) {
 
+        email.clear();
         email.sendKeys(uname);
 
+        password.clear();
         password.sendKeys(pass);
 
         loginbtn.click();

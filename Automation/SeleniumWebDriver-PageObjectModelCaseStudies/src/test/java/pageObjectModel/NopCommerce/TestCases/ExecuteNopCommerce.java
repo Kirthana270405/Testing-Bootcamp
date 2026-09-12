@@ -1,13 +1,10 @@
 package pageObjectModel.NopCommerce.TestCases;
 
 import org.openqa.selenium.WebDriver;
-
 import org.openqa.selenium.support.PageFactory;
-
 import org.testng.annotations.Test;
 
 import pageObjectModel.NopCommerce.Pages.LoginNopCommerce;
-
 import pageObjectModel.helper.BrowserFactory;
 
 public class ExecuteNopCommerce {
@@ -17,16 +14,16 @@ public class ExecuteNopCommerce {
 
         WebDriver driver = BrowserFactory.BrowserOptions(
                 "Chrome",
-                "https://demo.nopcommerce.com/login");
+                "https://admin-demo.nopcommerce.com/login");
 
         LoginNopCommerce loginPageNopCommerce =
                 PageFactory.initElements(driver, LoginNopCommerce.class);
 
         loginPageNopCommerce.login_NopCommerce(
-                "testuser@gmail.com",
-                "testpassword");
+                "admin@yourstore.com",
+                "admin");
 
-        //driver.quit();
+        // driver.quit();
 
     }
 
