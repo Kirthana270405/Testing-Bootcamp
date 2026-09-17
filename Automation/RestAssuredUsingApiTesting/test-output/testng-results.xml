@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-17T12:18:28 IST" name="Default suite" finished-at="2026-09-17T12:18:31 IST" duration-ms="2619">
+    <groups>
+    </groups>
+    <test started-at="2026-09-17T12:18:28 IST" name="Default test" finished-at="2026-09-17T12:18:31 IST" duration-ms="2619">
+      <class name="com.RestAssure.PostRequest.BDDPostRequestTest">
+        <test-method signature="createUserBDD()[pri:0, instance:com.RestAssure.PostRequest.BDDPostRequestTest@5b12b668]" started-at="2026-09-17T12:18:28 IST" name="createUserBDD" finished-at="2026-09-17T12:18:31 IST" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserBDD -->
+      </class> <!-- com.RestAssure.PostRequest.BDDPostRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
