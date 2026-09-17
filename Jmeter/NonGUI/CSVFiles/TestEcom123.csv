@@ -1,0 +1,977 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1789572516965,814,AjioMen-HTTP Request,403,Forbidden,Thread Group4 4-1,text,false,,1032,252,1,7,https://www.ajio.com/sections/men,656,0,619
+1789572516965,656,AjioMen-HTTP Request-0,301,Moved Permanently,Thread Group4 4-1,,true,,137,124,1,7,https://ajio.com/sections/men,656,0,619
+1789572517622,157,AjioMen-HTTP Request-1,403,Forbidden,Thread Group4 4-1,text,false,,895,128,1,7,https://www.ajio.com/sections/men,148,0,109
+1789572516966,929,SnapdealSarees-HTTP Request,200,OK,Thread Group3 3-1,text,true,,120447,324,1,7,https://www.snapdeal.com/?systemcode=124&keyword=women-apparel-sarees,639,0,620
+1789572516966,648,SnapdealSarees-HTTP Request-0,301,Moved Permanently,Thread Group3 3-1,,true,,433,160,1,7,https://snapdeal.com/?systemcode=124&keyword=women-apparel-sarees,639,0,620
+1789572517617,278,SnapdealSarees-HTTP Request-1,200,OK,Thread Group3 3-1,text,true,,120014,164,1,7,https://www.snapdeal.com/?systemcode=124&keyword=women-apparel-sarees,195,0,85
+1789572517782,178,Women-HTTP Request,403,Forbidden,Thread Group4 4-1,text,false,,1036,256,1,7,https://www.ajio.com/sections/women,48,0,0
+1789572517782,48,Women-HTTP Request-0,301,Moved Permanently,Thread Group4 4-1,,true,,139,126,1,7,https://ajio.com/sections/women,48,0,0
+1789572517831,129,Women-HTTP Request-1,403,Forbidden,Thread Group4 4-1,text,false,,897,130,1,7,https://www.ajio.com/sections/women,129,0,104
+1789572517961,75,Kids-HTTP Request,403,Forbidden,Thread Group4 4-1,text,false,,1034,254,1,8,https://www.ajio.com/sections/kids,34,0,0
+1789572517961,34,Kids-HTTP Request-0,301,Moved Permanently,Thread Group4 4-1,,true,,138,125,1,8,https://ajio.com/sections/kids,34,0,0
+1789572517995,41,Kids-HTTP Request-1,403,Forbidden,Thread Group4 4-1,text,false,,896,129,1,8,https://www.ajio.com/sections/kids,41,0,21
+1789572517895,172,Footwear-HTTP Request,200,OK,Thread Group3 3-1,text,true,,120177,336,1,9,https://www.snapdeal.com/?systemcode=124&keyword=mens-footwear-casual-shoes,29,0,0
+1789572517895,29,Footwear-HTTP Request-0,301,Moved Permanently,Thread Group3 3-1,,true,,439,166,1,9,https://snapdeal.com/?systemcode=124&keyword=mens-footwear-casual-shoes,29,0,0
+1789572517924,143,Footwear-HTTP Request-1,200,OK,Thread Group3 3-1,text,true,,119738,170,1,9,https://www.snapdeal.com/?systemcode=124&keyword=mens-footwear-casual-shoes,88,0,0
+1789572516966,1229,MeeshoTopBrands-HTTP Request,403,Forbidden,Thread Group5 5-1,text,false,,2399,272,1,9,https://www.meesho.com:443/top-brands/pl/3u77,697,0,661
+1789572516966,697,MeeshoTopBrands-HTTP Request-0,301,Moved Permanently,Thread Group5 5-1,text,true,,268,132,1,9,https://meesho.com/top-brands/pl/3u77,697,0,661
+1789572517663,532,MeeshoTopBrands-HTTP Request-1,403,Forbidden,Thread Group5 5-1,text,false,,2131,140,1,9,https://www.meesho.com:443/top-brands/pl/3u77,530,0,329
+1789572517347,879,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-2,text,true,,90716,258,3,9,https://www.swiggy.com:443/restaurants,353,0,303
+1789572517347,353,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,345,125,3,9,https://swiggy.com/restaurants,353,0,303
+1789572517703,523,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,90371,133,3,9,https://www.swiggy.com:443/restaurants,468,0,336
+1789572516966,1269,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-1,text,true,,90708,258,3,9,https://www.swiggy.com:443/restaurants,737,0,684
+1789572516966,737,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,345,125,3,9,https://swiggy.com/restaurants,737,0,684
+1789572517705,530,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,90363,133,3,9,https://www.swiggy.com:443/restaurants,470,0,335
+1789572518038,391,Beauty-HTTP Request,403,Forbidden,Thread Group4 4-1,text,false,,1054,266,1,11,https://www.ajio.com/s/beauty-5269-65820,34,0,0
+1789572518038,34,Beauty-HTTP Request-0,301,Moved Permanently,Thread Group4 4-1,,true,,144,131,1,11,https://ajio.com/s/beauty-5269-65820,34,0,0
+1789572518072,357,Beauty-HTTP Request-1,403,Forbidden,Thread Group4 4-1,text,false,,910,135,1,11,https://www.ajio.com/s/beauty-5269-65820,356,0,333
+1789572518077,383,Kitchen-HTTP Request,200,OK,Thread Group3 3-1,text,true,,136586,278,1,11,https://www.snapdeal.com/products/home-kitchen,171,0,0
+1789572518077,171,Kitchen-HTTP Request-0,301,Moved Permanently,Thread Group3 3-1,,true,,410,137,1,11,https://snapdeal.com/products/home-kitchen,171,0,0
+1789572518283,177,Kitchen-HTTP Request-1,200,OK,Thread Group3 3-1,text,true,,136176,141,1,11,https://www.snapdeal.com/products/home-kitchen,147,0,0
+1789572518429,109,Home-HTTP Request,403,Forbidden,Thread Group4 4-1,text,false,,1020,240,1,11,https://www.ajio.com/c/8312,51,0,0
+1789572518429,51,Home-HTTP Request-0,301,Moved Permanently,Thread Group4 4-1,,true,,131,118,1,11,https://ajio.com/c/8312,51,0,0
+1789572518481,57,Home-HTTP Request-1,403,Forbidden,Thread Group4 4-1,text,false,,889,122,1,11,https://www.ajio.com/c/8312,57,0,29
+1789572518060,694,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-3,text,true,,90715,258,4,10,https://www.swiggy.com:443/restaurants,495,0,421
+1789572518060,495,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,345,125,4,10,https://swiggy.com/restaurants,495,0,421
+1789572518556,198,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,90370,133,4,10,https://www.swiggy.com:443/restaurants,187,0,48
+1789572518196,619,Kurtis-HTTP Request,403,Forbidden,Thread Group5 5-1,text,false,,2399,274,1,10,https://www.meesho.com:443/women-kurtis/pl/3j0,36,0,0
+1789572518196,36,Kurtis-HTTP Request-0,301,Moved Permanently,Thread Group5 5-1,text,true,,269,133,1,10,https://meesho.com/women-kurtis/pl/3j0,36,0,0
+1789572518233,582,Kurtis-HTTP Request-1,403,Forbidden,Thread Group5 5-1,text,false,,2130,141,1,10,https://www.meesho.com:443/women-kurtis/pl/3j0,581,0,173
+1789572518461,405,Products-HTTP Request,200,OK,Thread Group3 3-1,text,true,,263595,302,1,12,https://www.snapdeal.com/products/car-freshners?sort=plrty,17,0,0
+1789572518461,17,Products-HTTP Request-0,301,Moved Permanently,Thread Group3 3-1,,true,,422,149,1,12,https://snapdeal.com/products/car-freshners?sort=plrty,17,0,0
+1789572518478,388,Products-HTTP Request-1,200,OK,Thread Group3 3-1,text,true,,263173,153,1,12,https://www.snapdeal.com/products/car-freshners?sort=plrty,377,0,0
+1789572518867,107,Electronic-HTTP Request,200,OK,Thread Group3 3-1,text,true,,120150,346,1,12,https://www.snapdeal.com/?systemcode=124&keyword=appliances-microwave-ovens-otgs,21,0,0
+1789572518867,21,Electronic-HTTP Request-0,301,Moved Permanently,Thread Group3 3-1,,true,,444,171,1,12,https://snapdeal.com/?systemcode=124&keyword=appliances-microwave-ovens-otgs,21,0,0
+1789572518888,86,Electronic-HTTP Request-1,200,OK,Thread Group3 3-1,text,true,,119706,175,1,12,https://www.snapdeal.com/?systemcode=124&keyword=appliances-microwave-ovens-otgs,85,0,0
+1789572518407,751,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-4,text,true,,90730,258,5,11,https://www.swiggy.com:443/restaurants,524,0,471
+1789572518407,524,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,345,125,5,11,https://swiggy.com/restaurants,524,0,471
+1789572518932,226,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,90385,133,5,11,https://www.swiggy.com:443/restaurants,168,0,22
+1789572518816,359,WesternWear-HTTP Request,403,Forbidden,Thread Group5 5-1,text,false,,2675,430,1,11,https://www.meesho.com:443/western-wear-women/pl/4aus,43,0,0
+1789572518816,43,WesternWear-HTTP Request-0,302,Found,Thread Group5 5-1,text,true,,256,142,1,11,https://meesho.com/./western-wear-women/pl/4aus,43,0,0
+1789572518859,42,WesternWear-HTTP Request-1,301,Moved Permanently,Thread Group5 5-1,text,true,,276,140,1,11,https://meesho.com/western-wear-women/pl/4aus,42,0,0
+1789572518902,273,WesternWear-HTTP Request-2,403,Forbidden,Thread Group5 5-1,text,false,,2143,148,1,11,https://www.meesho.com:443/western-wear-women/pl/4aus,273,0,45
+1789572519176,240,HomeDecor-HTTP Request,403,Forbidden,Thread Group5 5-1,text,false,,2397,270,1,13,https://www.meesho.com:443/home-decor/pl/3tl,34,0,0
+1789572519176,34,HomeDecor-HTTP Request-0,301,Moved Permanently,Thread Group5 5-1,text,true,,267,131,1,13,https://meesho.com/home-decor/pl/3tl,34,0,0
+1789572519211,205,HomeDecor-HTTP Request-1,403,Forbidden,Thread Group5 5-1,text,false,,2130,139,1,13,https://www.meesho.com:443/home-decor/pl/3tl,204,0,28
+1789572518853,824,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-5,text,true,,90700,258,6,13,https://www.swiggy.com:443/restaurants,294,0,227
+1789572518853,294,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,345,125,6,13,https://swiggy.com/restaurants,294,0,227
+1789572519149,528,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,90355,133,6,13,https://www.swiggy.com:443/restaurants,486,0,51
+1789572519417,283,Makeup-HTTP Request,403,Forbidden,Thread Group5 5-1,text,false,,2411,282,1,13,https://www.meesho.com:443/lip-care-makeup/pl/67cp,40,0,0
+1789572519417,40,Makeup-HTTP Request-0,301,Moved Permanently,Thread Group5 5-1,text,true,,273,137,1,13,https://meesho.com/lip-care-makeup/pl/67cp,40,0,0
+1789572519457,243,Makeup-HTTP Request-1,403,Forbidden,Thread Group5 5-1,text,false,,2138,145,1,13,https://www.meesho.com:443/lip-care-makeup/pl/67cp,242,0,17
+1789572518849,905,JioMart-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921928,260,6,12,https://www.jiomart.com/,101,0,72
+1789572518849,101,JioMart-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,141,6,12,https://jiomart.com/sections/quick-grocery-new,101,0,72
+1789572518951,803,JioMart-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921440,119,6,12,https://www.jiomart.com/,68,0,22
+1789572519348,440,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-6,text,true,,90708,258,6,12,https://www.swiggy.com:443/restaurants,220,0,169
+1789572519348,220,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,345,125,6,12,https://swiggy.com/restaurants,220,0,169
+1789572519570,218,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,90363,133,6,12,https://www.swiggy.com:443/restaurants,158,0,28
+1789572516965,2941,JioMart-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921931,260,7,14,https://www.jiomart.com/,651,0,621
+1789572516965,651,JioMart-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,141,7,14,https://jiomart.com/sections/quick-grocery-new,651,0,621
+1789572517617,2289,JioMart-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921443,119,7,14,https://www.jiomart.com/,128,0,63
+1789572519845,496,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-7,text,true,,90721,258,7,14,https://www.swiggy.com:443/restaurants,279,0,214
+1789572519845,279,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,345,125,7,14,https://swiggy.com/restaurants,279,0,214
+1789572520125,216,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,90376,133,7,14,https://www.swiggy.com:443/restaurants,153,0,20
+1789572518226,2354,Corporate-HTTP Request,200,OK,Thread Group2 2-2,text,true,,355548,256,8,16,https://www.swiggy.com:443/corporate/,49,0,0
+1789572518226,50,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,344,124,8,16,https://swiggy.com/corporate/,49,0,0
+1789572518276,2304,Corporate-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,355204,132,8,16,https://www.swiggy.com:443/corporate/,1912,0,0
+1789572520359,436,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-8,text,true,,90745,258,8,16,https://www.swiggy.com:443/restaurants,223,0,169
+1789572520359,223,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,345,125,8,16,https://swiggy.com/restaurants,223,0,169
+1789572520583,212,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,90400,133,8,16,https://www.swiggy.com:443/restaurants,157,0,21
+1789572520581,258,Search-HTTP Request,200,OK,Thread Group2 2-2,text,true,,85773,248,8,16,https://www.swiggy.com:443/search,49,0,0
+1789572520581,49,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,340,120,8,16,https://swiggy.com/search,49,0,0
+1789572520631,208,Search-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,85433,128,8,16,https://www.swiggy.com:443/search,138,0,0
+1789572519845,1338,JioMart-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921954,260,9,18,https://www.jiomart.com/,130,0,88
+1789572519845,130,JioMart-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,141,9,18,https://jiomart.com/sections/quick-grocery-new,130,0,88
+1789572519977,1206,JioMart-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921466,119,9,18,https://www.jiomart.com/,73,0,23
+1789572520856,426,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-9,text,true,,90700,258,9,18,https://www.swiggy.com:443/restaurants,215,0,163
+1789572520856,215,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,345,125,9,18,https://swiggy.com/restaurants,215,0,163
+1789572521072,210,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,90355,133,9,18,https://www.swiggy.com:443/restaurants,153,0,19
+1789572517341,4370,JioMart-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921930,260,10,20,https://www.jiomart.com/,286,0,246
+1789572517341,286,JioMart-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,141,10,20,https://jiomart.com/sections/quick-grocery-new,286,0,246
+1789572517628,4083,JioMart-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921442,119,10,20,https://www.jiomart.com/,103,0,49
+1789572518756,2965,Corporate-HTTP Request,200,OK,Thread Group2 2-3,text,true,,355456,256,10,20,https://www.swiggy.com:443/corporate/,67,0,0
+1789572518756,67,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,344,124,10,20,https://swiggy.com/corporate/,67,0,0
+1789572518824,2897,Corporate-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,355112,132,10,20,https://www.swiggy.com:443/corporate/,2704,0,0
+1789572521721,256,Search-HTTP Request,200,OK,Thread Group2 2-3,text,true,,85780,248,10,20,https://www.swiggy.com:443/search,69,0,0
+1789572521721,69,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,340,120,10,20,https://swiggy.com/search,69,0,0
+1789572521790,187,Search-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,85440,128,10,20,https://www.swiggy.com:443/search,130,0,0
+1789572518235,3790,Corporate-HTTP Request,200,OK,Thread Group2 2-1,text,true,,355460,256,10,20,https://www.swiggy.com:443/corporate/,52,0,0
+1789572518235,52,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,344,124,10,20,https://swiggy.com/corporate/,52,0,0
+1789572518288,3737,Corporate-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,355116,132,10,20,https://www.swiggy.com:443/corporate/,2061,0,0
+1789572518027,4005,JioMart-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6924519,260,10,20,https://www.jiomart.com/,132,0,100
+1789572518027,132,JioMart-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,141,10,20,https://jiomart.com/sections/quick-grocery-new,132,0,100
+1789572518160,3872,JioMart-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6924031,119,10,20,https://www.jiomart.com/,318,0,260
+1789572522026,291,Search-HTTP Request,200,OK,Thread Group2 2-1,text,true,,85802,248,10,20,https://www.swiggy.com:443/search,101,0,0
+1789572522026,101,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,340,120,10,20,https://swiggy.com/search,101,0,0
+1789572522127,190,Search-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,85462,128,10,20,https://www.swiggy.com:443/search,129,0,0
+1789572521978,696,Offers-HTTP Request,200,OK,Thread Group2 2-3,text,true,,338418,264,10,20,https://www.swiggy.com:443/offers-near-me,69,0,0
+1789572521978,69,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,69,0,0
+1789572522047,627,Offers-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,338070,136,10,20,https://www.swiggy.com:443/offers-near-me,485,0,0
+1789572519159,3614,Corporate-HTTP Request,200,OK,Thread Group2 2-4,text,true,,355451,256,10,20,https://www.swiggy.com:443/corporate/,51,0,0
+1789572519159,51,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,344,124,10,20,https://swiggy.com/corporate/,51,0,0
+1789572519211,3562,Corporate-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,355107,132,10,20,https://www.swiggy.com:443/corporate/,3313,0,0
+1789572519755,3026,Appliances-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6922321,387,10,20,https://www.jiomart.com/,28,0,0
+1789572519755,28,Appliances-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,249,135,10,20,https://jiomart.com/./sections/quick-sda,28,0,0
+1789572519783,32,Appliances-HTTP Request-1,302,Found,Thread Group1 1-5,text,true,,488,133,10,20,https://jiomart.com/sections/quick-sda,32,0,0
+1789572519815,2966,Appliances-HTTP Request-2,200,OK,Thread Group1 1-5,text,true,,6921584,119,10,20,https://www.jiomart.com/,35,0,0
+1789572522773,236,Search-HTTP Request,200,OK,Thread Group2 2-4,text,true,,85803,248,10,20,https://www.swiggy.com:443/search,52,0,0
+1789572522773,52,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,340,120,10,20,https://swiggy.com/search,52,0,0
+1789572522825,184,Search-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,85463,128,10,20,https://www.swiggy.com:443/search,124,0,0
+1789572519789,3239,Corporate-HTTP Request,200,OK,Thread Group2 2-6,text,true,,355522,256,10,20,https://www.swiggy.com:443/corporate/,51,0,0
+1789572519789,51,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,344,124,10,20,https://swiggy.com/corporate/,51,0,0
+1789572519840,3188,Corporate-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,355178,132,10,20,https://www.swiggy.com:443/corporate/,2893,0,0
+1789572518350,4741,JioMart-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921928,260,10,20,https://www.jiomart.com/,130,0,81
+1789572518350,130,JioMart-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,141,10,20,https://jiomart.com/sections/quick-grocery-new,130,0,81
+1789572518481,4610,JioMart-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921440,119,10,20,https://www.jiomart.com/,78,0,25
+1789572520840,2279,Offers-HTTP Request,200,OK,Thread Group2 2-2,text,true,,338418,264,10,20,https://www.swiggy.com:443/offers-near-me,50,0,0
+1789572522318,801,Offers-HTTP Request,200,OK,Thread Group2 2-1,text,true,,342128,264,10,20,https://www.swiggy.com:443/offers-near-me,53,0,0
+1789572520840,50,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,50,0,0
+1789572522318,53,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,53,0,0
+1789572520891,2228,Offers-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,338070,136,10,20,https://www.swiggy.com:443/offers-near-me,748,0,0
+1789572522371,748,Offers-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,341780,136,10,20,https://www.swiggy.com:443/offers-near-me,610,0,0
+1789572519678,3480,Corporate-HTTP Request,200,OK,Thread Group2 2-5,text,true,,355467,256,10,20,https://www.swiggy.com:443/corporate/,67,0,0
+1789572519678,67,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,344,124,10,20,https://swiggy.com/corporate/,67,0,0
+1789572519745,3413,Corporate-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,355123,132,10,20,https://www.swiggy.com:443/corporate/,2809,0,0
+1789572522674,514,Suport-HTTP Request,200,OK,Thread Group2 2-3,text,true,,88802,250,10,20,https://www.swiggy.com:443/support,72,0,0
+1789572522674,72,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,341,121,10,20,https://swiggy.com/support,72,0,0
+1789572522746,442,Suport-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,88461,129,10,20,https://www.swiggy.com:443/support,182,0,0
+1789572523028,245,Search-HTTP Request,200,OK,Thread Group2 2-6,text,true,,85795,248,10,20,https://www.swiggy.com:443/search,51,0,0
+1789572523028,51,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,340,120,10,20,https://swiggy.com/search,51,0,0
+1789572523079,194,Search-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,85455,128,10,20,https://www.swiggy.com:443/search,137,0,0
+1789572523120,239,Suport-HTTP Request,200,OK,Thread Group2 2-2,text,true,,88795,250,10,20,https://www.swiggy.com:443/support,52,0,0
+1789572523120,52,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,341,121,10,20,https://swiggy.com/support,52,0,0
+1789572523172,187,Suport-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,88454,129,10,20,https://www.swiggy.com:443/support,145,0,0
+1789572520342,3038,Corporate-HTTP Request,200,OK,Thread Group2 2-7,text,true,,355582,256,10,20,https://www.swiggy.com:443/corporate/,70,0,0
+1789572520342,70,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,344,124,10,20,https://swiggy.com/corporate/,70,0,0
+1789572520412,2968,Corporate-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,355238,132,10,20,https://www.swiggy.com:443/corporate/,2758,0,0
+1789572523120,275,Suport-HTTP Request,200,OK,Thread Group2 2-1,text,true,,88781,250,10,20,https://www.swiggy.com:443/support,52,0,0
+1789572523120,52,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,341,121,10,20,https://swiggy.com/support,52,0,0
+1789572523172,223,Suport-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,88440,129,10,20,https://www.swiggy.com:443/support,159,0,0
+1789572523158,280,Search-HTTP Request,200,OK,Thread Group2 2-5,text,true,,85780,248,10,20,https://www.swiggy.com:443/search,65,0,0
+1789572523158,65,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,340,120,10,20,https://swiggy.com/search,65,0,0
+1789572523223,215,Search-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,85440,128,10,20,https://www.swiggy.com:443/search,153,0,0
+1789572523380,227,Search-HTTP Request,200,OK,Thread Group2 2-7,text,true,,85780,248,10,20,https://www.swiggy.com:443/search,70,0,0
+1789572523380,70,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,340,120,10,20,https://swiggy.com/search,70,0,0
+1789572523450,157,Search-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,85440,128,10,20,https://www.swiggy.com:443/search,128,0,0
+1789572523395,257,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-1,text,true,,90707,258,10,20,https://www.swiggy.com:443/restaurants,55,0,0
+1789572523395,55,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,345,125,10,20,https://swiggy.com/restaurants,55,0,0
+1789572523450,202,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,90362,133,10,20,https://www.swiggy.com:443/restaurants,194,0,0
+1789572523188,558,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-3,text,true,,90802,258,10,20,https://www.swiggy.com:443/restaurants,76,0,0
+1789572523188,76,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,345,125,10,20,https://swiggy.com/restaurants,76,0,0
+1789572523264,482,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,90457,133,10,20,https://www.swiggy.com:443/restaurants,134,0,0
+1789572521356,2427,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-10,text,true,,90708,258,10,20,https://www.swiggy.com:443/restaurants,230,0,178
+1789572521356,230,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,345,125,10,20,https://swiggy.com/restaurants,230,0,178
+1789572521587,2196,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,90363,133,10,20,https://www.swiggy.com:443/restaurants,1892,0,1736
+1789572523010,1319,Offers-HTTP Request,200,OK,Thread Group2 2-4,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,615,0,0
+1789572523010,615,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,615,0,0
+1789572523625,704,Offers-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,558,0,0
+1789572520795,3544,Corporate-HTTP Request,200,OK,Thread Group2 2-8,text,true,,355668,256,10,20,https://www.swiggy.com:443/corporate/,52,0,0
+1789572520795,52,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,344,124,10,20,https://swiggy.com/corporate/,52,0,0
+1789572520847,3492,Corporate-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,355324,132,10,20,https://www.swiggy.com:443/corporate/,2396,0,0
+1789572524329,250,Suport-HTTP Request,200,OK,Thread Group2 2-4,text,true,,88780,250,10,20,https://www.swiggy.com:443/support,52,0,0
+1789572524329,52,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,341,121,10,20,https://swiggy.com/support,52,0,0
+1789572524381,198,Suport-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,88439,129,10,20,https://www.swiggy.com:443/support,150,0,0
+1789572524340,248,Search-HTTP Request,200,OK,Thread Group2 2-8,text,true,,85788,248,10,20,https://www.swiggy.com:443/search,60,0,0
+1789572524340,60,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,340,120,10,20,https://swiggy.com/search,60,0,0
+1789572524400,188,Search-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,85448,128,10,20,https://www.swiggy.com:443/search,131,0,0
+1789572524579,271,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-4,text,true,,90715,258,10,20,https://www.swiggy.com:443/restaurants,55,0,0
+1789572524579,55,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,345,125,10,20,https://swiggy.com/restaurants,55,0,0
+1789572524635,215,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,90370,133,10,20,https://www.swiggy.com:443/restaurants,129,0,0
+1789572520842,4597,JioMart-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921954,260,10,20,https://www.jiomart.com/,94,0,63
+1789572520842,94,JioMart-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,141,10,20,https://jiomart.com/sections/quick-grocery-new,94,0,63
+1789572520938,4501,JioMart-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921466,119,10,20,https://www.jiomart.com/,61,0,23
+1789572524589,964,Offers-HTTP Request,200,OK,Thread Group2 2-8,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,64,0,0
+1789572524589,64,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,64,0,0
+1789572524653,900,Offers-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,556,0,0
+1789572523746,1893,Corporate-HTTP Request,200,OK,Thread Group2 2-3,text,true,,355479,256,10,20,https://www.swiggy.com:443/corporate/,73,0,0
+1789572523746,73,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,344,124,10,20,https://swiggy.com/corporate/,73,0,0
+1789572523819,1820,Corporate-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,355135,132,10,20,https://www.swiggy.com:443/corporate/,1605,0,0
+1789572525554,249,Suport-HTTP Request,200,OK,Thread Group2 2-8,text,true,,88780,250,10,20,https://www.swiggy.com:443/support,53,0,0
+1789572525554,53,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,341,121,10,20,https://swiggy.com/support,53,0,0
+1789572525607,196,Suport-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,88439,129,10,20,https://www.swiggy.com:443/support,135,0,0
+1789572523652,2381,Corporate-HTTP Request,200,OK,Thread Group2 2-1,text,true,,355572,256,10,20,https://www.swiggy.com:443/corporate/,57,0,0
+1789572523652,57,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,344,124,10,20,https://swiggy.com/corporate/,57,0,0
+1789572523710,2323,Corporate-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,355228,132,10,20,https://www.swiggy.com:443/corporate/,1910,0,0
+1789572523783,2351,Corporate-HTTP Request,200,OK,Thread Group2 2-10,text,true,,355520,256,10,20,https://www.swiggy.com:443/corporate/,54,0,0
+1789572523783,54,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,344,124,10,20,https://swiggy.com/corporate/,54,0,0
+1789572523837,2297,Corporate-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,355176,132,10,20,https://www.swiggy.com:443/corporate/,1943,0,0
+1789572525639,527,Search-HTTP Request,200,OK,Thread Group2 2-3,text,true,,85787,248,10,20,https://www.swiggy.com:443/search,77,0,0
+1789572525639,77,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,340,120,10,20,https://swiggy.com/search,77,0,0
+1789572525717,449,Search-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,85447,128,10,20,https://www.swiggy.com:443/search,126,0,0
+1789572525803,492,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-8,text,true,,90730,258,10,20,https://www.swiggy.com:443/restaurants,53,0,0
+1789572525803,53,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,345,125,10,20,https://swiggy.com/restaurants,53,0,0
+1789572525856,439,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,90385,133,10,20,https://www.swiggy.com:443/restaurants,140,0,0
+1789572526034,274,Search-HTTP Request,200,OK,Thread Group2 2-1,text,true,,85795,248,10,20,https://www.swiggy.com:443/search,52,0,0
+1789572526034,52,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,340,120,10,20,https://swiggy.com/search,52,0,0
+1789572526087,221,Search-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,85455,128,10,20,https://www.swiggy.com:443/search,128,0,0
+1789572526135,534,Search-HTTP Request,200,OK,Thread Group2 2-10,text,true,,85780,248,10,20,https://www.swiggy.com:443/search,49,0,0
+1789572526135,49,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,340,120,10,20,https://swiggy.com/search,49,0,0
+1789572526185,484,Search-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,85440,128,10,20,https://www.swiggy.com:443/search,147,0,0
+1789572526309,711,Offers-HTTP Request,200,OK,Thread Group2 2-1,text,true,,338419,264,10,20,https://www.swiggy.com:443/offers-near-me,57,0,0
+1789572526309,57,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,57,0,0
+1789572526366,654,Offers-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,338071,136,10,20,https://www.swiggy.com:443/offers-near-me,540,0,0
+1789572521345,5696,JioMart-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921952,260,10,20,https://www.jiomart.com/,424,0,380
+1789572521345,424,JioMart-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,141,10,20,https://jiomart.com/sections/quick-grocery-new,424,0,380
+1789572521770,5271,JioMart-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921464,119,10,20,https://www.jiomart.com/,72,0,22
+1789572526166,916,Offers-HTTP Request,200,OK,Thread Group2 2-3,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,68,0,0
+1789572526166,68,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,68,0,0
+1789572526235,847,Offers-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,466,0,0
+1789572527021,180,Suport-HTTP Request,200,OK,Thread Group2 2-1,text,true,,88788,250,10,20,https://www.swiggy.com:443/support,51,0,0
+1789572527021,51,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,341,121,10,20,https://swiggy.com/support,51,0,0
+1789572527072,129,Suport-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,88447,129,10,20,https://www.swiggy.com:443/support,127,0,0
+1789572524850,2463,Corporate-HTTP Request,200,OK,Thread Group2 2-4,text,true,,355527,256,10,20,https://www.swiggy.com:443/corporate/,349,0,0
+1789572524850,349,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,344,124,10,20,https://swiggy.com/corporate/,349,0,0
+1789572525199,2114,Corporate-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,355183,132,10,20,https://www.swiggy.com:443/corporate/,1071,0,0
+1789572527083,273,Suport-HTTP Request,200,OK,Thread Group2 2-3,text,true,,88803,250,10,20,https://www.swiggy.com:443/support,84,0,0
+1789572527083,84,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,341,121,10,20,https://swiggy.com/support,84,0,0
+1789572527168,188,Suport-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,88462,129,10,20,https://www.swiggy.com:443/support,135,0,0
+1789572526295,1106,Corporate-HTTP Request,200,OK,Thread Group2 2-8,text,true,,355538,256,10,20,https://www.swiggy.com:443/corporate/,51,0,0
+1789572526295,51,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,344,124,10,20,https://swiggy.com/corporate/,51,0,0
+1789572526346,1055,Corporate-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,355194,132,10,20,https://www.swiggy.com:443/corporate/,821,0,0
+1789572522781,4734,Coupons-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921938,261,10,20,https://www.jiomart.com/,30,0,0
+1789572522781,30,Coupons-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,463,142,10,20,https://jiomart.com/sections/happy-hour-coupons,30,0,0
+1789572522811,4704,Coupons-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,20,https://www.jiomart.com/,39,0,0
+1789572526669,859,Offers-HTTP Request,200,OK,Thread Group2 2-10,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,58,0,0
+1789572526669,58,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,58,0,0
+1789572526727,801,Offers-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,474,0,0
+1789572523438,4100,Offers-HTTP Request,200,OK,Thread Group2 2-5,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,69,0,0
+1789572523438,69,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,69,0,0
+1789572523507,4031,Offers-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,488,0,0
+1789572523608,3943,Offers-HTTP Request,200,OK,Thread Group2 2-7,text,true,,338419,264,10,20,https://www.swiggy.com:443/offers-near-me,70,0,0
+1789572523608,70,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,70,0,0
+1789572523678,3873,Offers-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,338071,136,10,20,https://www.swiggy.com:443/offers-near-me,453,0,0
+1789572527313,303,Search-HTTP Request,200,OK,Thread Group2 2-4,text,true,,85765,248,10,20,https://www.swiggy.com:443/search,88,0,0
+1789572527313,88,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,340,120,10,20,https://swiggy.com/search,88,0,0
+1789572527401,215,Search-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,85425,128,10,20,https://www.swiggy.com:443/search,163,0,0
+1789572527402,249,Search-HTTP Request,200,OK,Thread Group2 2-8,text,true,,85796,248,10,20,https://www.swiggy.com:443/search,59,0,0
+1789572527402,59,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,340,120,10,20,https://swiggy.com/search,59,0,0
+1789572527461,190,Search-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,85456,128,10,20,https://www.swiggy.com:443/search,134,0,0
+1789572527538,283,Suport-HTTP Request,200,OK,Thread Group2 2-5,text,true,,88796,250,10,20,https://www.swiggy.com:443/support,67,0,0
+1789572527538,67,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,341,121,10,20,https://swiggy.com/support,67,0,0
+1789572527605,216,Suport-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,88455,129,10,20,https://www.swiggy.com:443/support,150,0,0
+1789572527528,338,Suport-HTTP Request,200,OK,Thread Group2 2-10,text,true,,88801,250,10,20,https://www.swiggy.com:443/support,52,0,0
+1789572527528,52,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,341,121,10,20,https://swiggy.com/support,52,0,0
+1789572527580,286,Suport-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,88460,129,10,20,https://www.swiggy.com:443/support,134,0,0
+1789572527202,681,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-1,text,true,,90729,258,10,20,https://www.swiggy.com:443/restaurants,362,0,0
+1789572527202,362,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,345,125,10,20,https://swiggy.com/restaurants,362,0,0
+1789572527564,319,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,90384,133,10,20,https://www.swiggy.com:443/restaurants,219,0,0
+1789572521712,6356,Appliances-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6922322,387,10,20,https://www.jiomart.com/,34,0,0
+1789572521712,34,Appliances-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,249,135,10,20,https://jiomart.com/./sections/quick-sda,34,0,0
+1789572521746,37,Appliances-HTTP Request-1,302,Found,Thread Group1 1-2,text,true,,488,133,10,20,https://jiomart.com/sections/quick-sda,37,0,0
+1789572521783,6285,Appliances-HTTP Request-2,200,OK,Thread Group1 1-2,text,true,,6921585,119,10,20,https://www.jiomart.com/,38,0,0
+1789572522033,6043,Appliances-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6922238,387,10,20,https://www.jiomart.com/,25,0,0
+1789572522033,25,Appliances-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,249,135,10,20,https://jiomart.com/./sections/quick-sda,25,0,0
+1789572522059,30,Appliances-HTTP Request-1,302,Found,Thread Group1 1-3,text,true,,488,133,10,20,https://jiomart.com/sections/quick-sda,30,0,0
+1789572522090,5986,Appliances-HTTP Request-2,200,OK,Thread Group1 1-3,text,true,,6921501,119,10,20,https://www.jiomart.com/,1586,0,0
+1789572527821,266,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-5,text,true,,90709,258,10,20,https://www.swiggy.com:443/restaurants,67,0,0
+1789572527821,67,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,345,125,10,20,https://swiggy.com/restaurants,67,0,0
+1789572527889,198,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,90364,133,10,20,https://www.swiggy.com:443/restaurants,139,0,0
+1789572527357,757,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-3,text,true,,90745,258,10,20,https://www.swiggy.com:443/restaurants,410,0,0
+1789572527357,410,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,345,125,10,20,https://swiggy.com/restaurants,410,0,0
+1789572527768,346,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,90400,133,10,20,https://www.swiggy.com:443/restaurants,217,0,0
+1789572521183,6974,Appliances-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6922227,387,10,20,https://www.jiomart.com/,34,0,0
+1789572521183,34,Appliances-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,249,135,10,20,https://jiomart.com/./sections/quick-sda,34,0,0
+1789572521217,41,Appliances-HTTP Request-1,302,Found,Thread Group1 1-7,text,true,,488,133,10,20,https://jiomart.com/sections/quick-sda,41,0,0
+1789572521259,6898,Appliances-HTTP Request-2,200,OK,Thread Group1 1-7,text,true,,6921490,119,10,20,https://www.jiomart.com/,67,0,0
+1789572527866,309,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-10,text,true,,90715,258,10,20,https://www.swiggy.com:443/restaurants,55,0,0
+1789572527866,55,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,345,125,10,20,https://swiggy.com/restaurants,55,0,0
+1789572527921,254,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,90370,133,10,20,https://www.swiggy.com:443/restaurants,148,0,0
+1789572527652,780,Offers-HTTP Request,200,OK,Thread Group2 2-8,text,true,,338418,264,10,20,https://www.swiggy.com:443/offers-near-me,54,0,0
+1789572527652,54,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,54,0,0
+1789572527706,726,Offers-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,338070,136,10,20,https://www.swiggy.com:443/offers-near-me,507,0,0
+1789572519348,9172,JioMart-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921928,260,10,20,https://www.jiomart.com/,345,0,74
+1789572519348,346,JioMart-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,141,10,20,https://jiomart.com/sections/quick-grocery-new,345,0,74
+1789572519695,8825,JioMart-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921465,119,10,20,https://www.jiomart.com/,66,0,23
+1789572527616,909,Offers-HTTP Request,200,OK,Thread Group2 2-4,text,true,,338418,264,10,20,https://www.swiggy.com:443/offers-near-me,52,0,0
+1789572527616,52,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,52,0,0
+1789572527668,857,Offers-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,338070,136,10,20,https://www.swiggy.com:443/offers-near-me,446,0,0
+1789572528432,268,Suport-HTTP Request,200,OK,Thread Group2 2-8,text,true,,88781,250,10,20,https://www.swiggy.com:443/support,55,0,0
+1789572528432,55,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,341,121,10,20,https://swiggy.com/support,55,0,0
+1789572528488,212,Suport-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,88440,129,10,20,https://www.swiggy.com:443/support,142,0,0
+1789572528526,375,Suport-HTTP Request,200,OK,Thread Group2 2-4,text,true,,88773,250,10,20,https://www.swiggy.com:443/support,59,0,0
+1789572528526,59,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,341,121,10,20,https://swiggy.com/support,59,0,0
+1789572528585,316,Suport-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,88432,129,10,20,https://www.swiggy.com:443/support,203,0,0
+1789572528701,425,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-8,text,true,,90692,258,10,20,https://www.swiggy.com:443/restaurants,50,0,0
+1789572528701,50,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,345,125,10,20,https://swiggy.com/restaurants,50,0,0
+1789572528752,374,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,90347,133,10,20,https://www.swiggy.com:443/restaurants,296,0,0
+1789572519907,9354,Appliances-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6922221,387,10,20,https://www.jiomart.com/,28,0,0
+1789572519907,28,Appliances-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,249,135,10,20,https://jiomart.com/./sections/quick-sda,28,0,0
+1789572519935,30,Appliances-HTTP Request-1,302,Found,Thread Group1 1-1,text,true,,488,133,10,20,https://jiomart.com/sections/quick-sda,30,0,0
+1789572519965,9296,Appliances-HTTP Request-2,200,OK,Thread Group1 1-1,text,true,,6921484,119,10,20,https://www.jiomart.com/,59,0,0
+1789572528902,1029,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-4,text,true,,90692,258,10,20,https://www.swiggy.com:443/restaurants,64,0,0
+1789572528902,64,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,345,125,10,20,https://swiggy.com/restaurants,64,0,0
+1789572528966,965,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,90347,133,10,20,https://www.swiggy.com:443/restaurants,160,0,0
+1789572523360,7060,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-2,text,true,,90699,258,10,20,https://www.swiggy.com:443/restaurants,55,0,0
+1789572523360,55,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,345,125,10,20,https://swiggy.com/restaurants,55,0,0
+1789572523415,7005,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,90354,133,10,20,https://www.swiggy.com:443/restaurants,125,0,0
+1789572528115,2467,Corporate-HTTP Request,200,OK,Thread Group2 2-3,text,true,,355567,256,10,20,https://www.swiggy.com:443/corporate/,75,0,0
+1789572528115,75,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,344,124,10,20,https://swiggy.com/corporate/,75,0,0
+1789572528190,2392,Corporate-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,355223,132,10,20,https://www.swiggy.com:443/corporate/,2175,0,0
+1789572528088,2558,Corporate-HTTP Request,200,OK,Thread Group2 2-5,text,true,,355518,256,10,20,https://www.swiggy.com:443/corporate/,93,0,0
+1789572528088,93,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,344,124,10,20,https://swiggy.com/corporate/,93,0,0
+1789572528181,2465,Corporate-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,355174,132,10,20,https://www.swiggy.com:443/corporate/,2196,0,0
+1789572527516,3146,Beauty-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921963,266,10,20,https://www.jiomart.com/,31,0,0
+1789572527516,31,Beauty-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,147,10,20,https://jiomart.com/sections/quick-beauty-and-beyond,31,0,0
+1789572527547,3115,Beauty-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,20,https://www.jiomart.com/,42,0,0
+1789572530583,340,Search-HTTP Request,200,OK,Thread Group2 2-3,text,true,,85827,248,10,20,https://www.swiggy.com:443/search,110,0,0
+1789572530583,110,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,340,120,10,20,https://swiggy.com/search,110,0,0
+1789572530693,230,Search-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,85487,128,10,20,https://www.swiggy.com:443/search,139,0,0
+1789572530646,294,Search-HTTP Request,200,OK,Thread Group2 2-5,text,true,,85819,248,10,20,https://www.swiggy.com:443/search,67,0,0
+1789572530646,67,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,340,120,10,20,https://swiggy.com/search,67,0,0
+1789572530713,227,Search-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,85479,128,10,20,https://www.swiggy.com:443/search,148,0,0
+1789572523274,7692,Offers-HTTP Request,200,OK,Thread Group2 2-6,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,51,0,0
+1789572523274,51,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,51,0,0
+1789572523325,7641,Offers-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,1032,0,0
+1789572530966,416,Suport-HTTP Request,200,OK,Thread Group2 2-6,text,true,,88774,250,10,20,https://www.swiggy.com:443/support,58,0,0
+1789572530966,58,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,341,121,10,20,https://swiggy.com/support,58,0,0
+1789572531024,358,Suport-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,88433,129,10,20,https://www.swiggy.com:443/support,228,0,0
+1789572527552,3838,Suport-HTTP Request,200,OK,Thread Group2 2-7,text,true,,88789,250,10,20,https://www.swiggy.com:443/support,68,0,0
+1789572527552,68,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,341,121,10,20,https://swiggy.com/support,68,0,0
+1789572527620,3770,Suport-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,88448,129,10,20,https://www.swiggy.com:443/support,364,0,0
+1789572528175,3469,Corporate-HTTP Request,200,OK,Thread Group2 2-10,text,true,,355431,256,10,20,https://www.swiggy.com:443/corporate/,54,0,0
+1789572528175,54,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,344,124,10,20,https://swiggy.com/corporate/,54,0,0
+1789572528229,3415,Corporate-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,355087,132,10,20,https://www.swiggy.com:443/corporate/,2827,0,0
+1789572530923,736,Offers-HTTP Request,200,OK,Thread Group2 2-3,text,true,,342127,264,10,20,https://www.swiggy.com:443/offers-near-me,70,0,0
+1789572530923,70,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,70,0,0
+1789572530993,666,Offers-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,341779,136,10,20,https://www.swiggy.com:443/offers-near-me,638,0,0
+1789572531391,277,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-7,text,true,,90737,258,10,20,https://www.swiggy.com:443/restaurants,75,0,0
+1789572531391,75,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,345,125,10,20,https://swiggy.com/restaurants,75,0,0
+1789572531466,202,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,90392,133,10,20,https://www.swiggy.com:443/restaurants,126,0,0
+1789572530940,761,Offers-HTTP Request,200,OK,Thread Group2 2-5,text,true,,338418,264,10,20,https://www.swiggy.com:443/offers-near-me,80,0,0
+1789572530940,80,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,348,128,10,20,https://swiggy.com/offers-near-me,80,0,0
+1789572531020,681,Offers-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,338070,136,10,20,https://www.swiggy.com:443/offers-near-me,452,0,0
+1789572531383,324,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-6,text,true,,90716,258,10,20,https://www.swiggy.com:443/restaurants,54,0,0
+1789572531383,54,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,345,125,10,20,https://swiggy.com/restaurants,54,0,0
+1789572531437,270,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,90371,133,10,20,https://www.swiggy.com:443/restaurants,143,0,0
+1789572531644,243,Search-HTTP Request,200,OK,Thread Group2 2-10,text,true,,85780,248,10,20,https://www.swiggy.com:443/search,50,0,0
+1789572531644,51,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,340,120,10,20,https://swiggy.com/search,50,0,0
+1789572531695,192,Search-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,85440,128,10,20,https://www.swiggy.com:443/search,139,0,0
+1789572531659,263,Suport-HTTP Request,200,OK,Thread Group2 2-3,text,true,,88781,250,10,20,https://www.swiggy.com:443/support,72,0,0
+1789572531659,72,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-3,text,true,,341,121,10,20,https://swiggy.com/support,72,0,0
+1789572531731,191,Suport-HTTP Request-1,200,OK,Thread Group2 2-3,text,true,,88440,129,10,20,https://www.swiggy.com:443/support,147,0,0
+1789572531702,257,Suport-HTTP Request,200,OK,Thread Group2 2-5,text,true,,88788,250,9,19,https://www.swiggy.com:443/support,66,0,0
+1789572531702,66,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,341,121,9,19,https://swiggy.com/support,66,0,0
+1789572531768,191,Suport-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,88447,129,9,19,https://www.swiggy.com:443/support,140,0,0
+1789572528076,4204,Coupons-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921965,261,10,19,https://www.jiomart.com/,34,0,0
+1789572528076,34,Coupons-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,142,10,19,https://jiomart.com/sections/happy-hour-coupons,34,0,0
+1789572528110,4170,Coupons-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921477,119,10,19,https://www.jiomart.com/,47,0,0
+1789572527042,5266,Appliances-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6922212,387,10,19,https://www.jiomart.com/,41,0,0
+1789572527042,41,Appliances-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,249,135,10,19,https://jiomart.com/./sections/quick-sda,41,0,0
+1789572527083,42,Appliances-HTTP Request-1,302,Found,Thread Group1 1-10,text,true,,488,133,10,19,https://jiomart.com/sections/quick-sda,42,0,0
+1789572527126,5182,Appliances-HTTP Request-2,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,19,https://www.jiomart.com/,64,0,0
+1789572529261,3173,Coupons-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921965,261,10,19,https://www.jiomart.com/,33,0,0
+1789572529261,33,Coupons-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,142,10,19,https://jiomart.com/sections/happy-hour-coupons,33,0,0
+1789572529294,3140,Coupons-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921477,119,10,19,https://www.jiomart.com/,57,0,0
+1789572531960,590,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-5,text,true,,90728,258,9,19,https://www.swiggy.com:443/restaurants,389,0,0
+1789572531960,389,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,345,125,9,19,https://swiggy.com/restaurants,389,0,0
+1789572532349,201,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,90383,133,9,19,https://www.swiggy.com:443/restaurants,133,0,0
+1789572529931,2693,Corporate-HTTP Request,200,OK,Thread Group2 2-4,text,true,,355503,256,9,19,https://www.swiggy.com:443/corporate/,61,0,0
+1789572529931,61,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,344,124,9,19,https://swiggy.com/corporate/,61,0,0
+1789572529992,2632,Corporate-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,355159,132,9,19,https://www.swiggy.com:443/corporate/,2105,0,0
+1789572531887,866,Offers-HTTP Request,200,OK,Thread Group2 2-10,text,true,,338418,264,9,19,https://www.swiggy.com:443/offers-near-me,83,0,0
+1789572531887,83,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,348,128,9,19,https://swiggy.com/offers-near-me,83,0,0
+1789572531970,783,Offers-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,338070,136,9,19,https://www.swiggy.com:443/offers-near-me,483,0,0
+1789572532753,248,Suport-HTTP Request,200,OK,Thread Group2 2-10,text,true,,88780,250,9,19,https://www.swiggy.com:443/support,53,0,0
+1789572532753,53,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,341,121,9,19,https://swiggy.com/support,53,0,0
+1789572532806,195,Suport-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,88439,129,9,19,https://www.swiggy.com:443/support,164,0,0
+1789572528158,4917,Coupons-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921967,261,10,19,https://www.jiomart.com/,38,0,0
+1789572528158,38,Coupons-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,142,10,19,https://jiomart.com/sections/happy-hour-coupons,38,0,0
+1789572528197,4878,Coupons-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921479,119,10,19,https://www.jiomart.com/,50,0,0
+1789572529127,3990,Corporate-HTTP Request,200,OK,Thread Group2 2-8,text,true,,355520,256,9,19,https://www.swiggy.com:443/corporate/,53,0,0
+1789572529127,53,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,344,124,9,19,https://swiggy.com/corporate/,53,0,0
+1789572529180,3937,Corporate-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,355176,132,9,19,https://www.swiggy.com:443/corporate/,2917,0,0
+1789572530420,2977,Corporate-HTTP Request,200,OK,Thread Group2 2-2,text,true,,355340,256,9,19,https://www.swiggy.com:443/corporate/,51,0,0
+1789572530420,51,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,344,124,9,19,https://swiggy.com/corporate/,51,0,0
+1789572530471,2926,Corporate-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,354996,132,9,19,https://www.swiggy.com:443/corporate/,1996,0,0
+1789572533117,296,Search-HTTP Request,200,OK,Thread Group2 2-8,text,true,,85773,248,9,19,https://www.swiggy.com:443/search,59,0,0
+1789572533117,59,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,340,120,9,19,https://swiggy.com/search,59,0,0
+1789572533176,237,Search-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,85433,128,9,19,https://www.swiggy.com:443/search,154,0,0
+1789572533001,497,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-10,text,true,,90714,258,9,19,https://www.swiggy.com:443/restaurants,53,0,0
+1789572533001,53,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,345,125,9,19,https://swiggy.com/restaurants,53,0,0
+1789572533054,444,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,90369,133,9,19,https://www.swiggy.com:443/restaurants,198,0,0
+1789572528069,5486,Coupons-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921966,261,10,19,https://www.jiomart.com/,39,0,0
+1789572528069,39,Coupons-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,142,10,19,https://jiomart.com/sections/happy-hour-coupons,39,0,0
+1789572528109,5446,Coupons-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,10,19,https://www.jiomart.com/,69,0,0
+1789572521282,12277,Corporate-HTTP Request,200,OK,Thread Group2 2-9,text,true,,355416,256,9,19,https://www.swiggy.com:443/corporate/,58,0,0
+1789572521282,59,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,344,124,9,19,https://swiggy.com/corporate/,58,0,0
+1789572521341,12218,Corporate-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,355072,132,9,19,https://www.swiggy.com:443/corporate/,2260,0,0
+1789572533397,292,Search-HTTP Request,200,OK,Thread Group2 2-2,text,true,,85803,248,9,19,https://www.swiggy.com:443/search,54,0,0
+1789572533397,54,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,340,120,9,19,https://swiggy.com/search,54,0,0
+1789572533451,238,Search-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,85463,128,9,19,https://www.swiggy.com:443/search,132,0,0
+1789572531707,2136,Corporate-HTTP Request,200,OK,Thread Group2 2-6,text,true,,355434,256,9,19,https://www.swiggy.com:443/corporate/,52,0,0
+1789572531707,52,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,344,124,9,19,https://swiggy.com/corporate/,52,0,0
+1789572531759,2084,Corporate-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,355090,132,9,19,https://www.swiggy.com:443/corporate/,1516,0,0
+1789572532551,1351,Corporate-HTTP Request,200,OK,Thread Group2 2-5,text,true,,355397,256,9,19,https://www.swiggy.com:443/corporate/,73,0,0
+1789572532551,73,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,344,124,9,19,https://swiggy.com/corporate/,73,0,0
+1789572532624,1278,Corporate-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,355053,132,9,19,https://www.swiggy.com:443/corporate/,1077,0,0
+1789572533903,276,Search-HTTP Request,200,OK,Thread Group2 2-5,text,true,,85810,248,9,19,https://www.swiggy.com:443/search,69,0,0
+1789572533903,69,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,340,120,9,19,https://swiggy.com/search,69,0,0
+1789572533972,207,Search-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,85470,128,9,19,https://www.swiggy.com:443/search,162,0,0
+1789572533844,358,Search-HTTP Request,200,OK,Thread Group2 2-6,text,true,,85794,248,9,19,https://www.swiggy.com:443/search,59,0,0
+1789572533844,60,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,340,120,9,19,https://swiggy.com/search,59,0,0
+1789572533904,298,Search-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,85454,128,9,19,https://www.swiggy.com:443/search,165,0,0
+1789572533414,820,Offers-HTTP Request,200,OK,Thread Group2 2-8,text,true,,338418,264,9,19,https://www.swiggy.com:443/offers-near-me,57,0,0
+1789572533414,57,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,348,128,9,19,https://swiggy.com/offers-near-me,57,0,0
+1789572533471,763,Offers-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,338070,136,9,19,https://www.swiggy.com:443/offers-near-me,465,0,0
+1789572528520,5746,Appliances-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6922162,387,10,19,https://www.jiomart.com/,36,0,0
+1789572528520,36,Appliances-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,224,135,10,19,https://jiomart.com/./sections/quick-sda,36,0,0
+1789572528557,38,Appliances-HTTP Request-1,302,Found,Thread Group1 1-6,text,true,,463,133,10,19,https://jiomart.com/sections/quick-sda,38,0,0
+1789572528595,5671,Appliances-HTTP Request-2,200,OK,Thread Group1 1-6,text,true,,6921475,119,10,19,https://www.jiomart.com/,65,0,0
+1789572531669,2656,Corporate-HTTP Request,200,OK,Thread Group2 2-7,text,true,,355453,256,9,19,https://www.swiggy.com:443/corporate/,66,0,0
+1789572531669,66,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,344,124,9,19,https://swiggy.com/corporate/,66,0,0
+1789572531735,2590,Corporate-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,355109,132,9,19,https://www.swiggy.com:443/corporate/,1528,0,0
+1789572533689,735,Offers-HTTP Request,200,OK,Thread Group2 2-2,text,true,,338418,264,9,19,https://www.swiggy.com:443/offers-near-me,52,0,0
+1789572533689,52,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,348,128,9,19,https://swiggy.com/offers-near-me,52,0,0
+1789572533741,683,Offers-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,338070,136,9,19,https://www.swiggy.com:443/offers-near-me,449,0,0
+1789572525439,8989,Appliances-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6922189,387,10,19,https://www.jiomart.com/,27,0,0
+1789572525439,27,Appliances-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,224,135,10,19,https://jiomart.com/./sections/quick-sda,27,0,0
+1789572525467,29,Appliances-HTTP Request-1,302,Found,Thread Group1 1-9,text,true,,488,133,10,19,https://jiomart.com/sections/quick-sda,29,0,0
+1789572525497,8931,Appliances-HTTP Request-2,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,19,https://www.jiomart.com/,71,0,0
+1789572532625,1947,Search-HTTP Request,200,OK,Thread Group2 2-4,text,true,,85765,248,9,19,https://www.swiggy.com:443/search,61,0,0
+1789572532625,62,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,340,120,9,19,https://swiggy.com/search,61,0,0
+1789572532687,1885,Search-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,85425,128,9,19,https://www.swiggy.com:443/search,148,0,0
+1789572534326,273,Search-HTTP Request,200,OK,Thread Group2 2-7,text,true,,85780,248,9,19,https://www.swiggy.com:443/search,70,0,0
+1789572534326,70,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,340,120,9,19,https://swiggy.com/search,70,0,0
+1789572534396,203,Search-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,85440,128,9,19,https://www.swiggy.com:443/search,126,0,0
+1789572534234,368,Suport-HTTP Request,200,OK,Thread Group2 2-8,text,true,,88803,250,9,19,https://www.swiggy.com:443/support,69,0,0
+1789572534234,69,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-8,text,true,,341,121,9,19,https://swiggy.com/support,69,0,0
+1789572534304,298,Suport-HTTP Request-1,200,OK,Thread Group2 2-8,text,true,,88462,129,9,19,https://www.swiggy.com:443/support,206,0,0
+1789572533559,1346,Search-HTTP Request,200,OK,Thread Group2 2-9,text,true,,85781,248,8,18,https://www.swiggy.com:443/search,59,0,0
+1789572533559,59,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,340,120,8,18,https://swiggy.com/search,59,0,0
+1789572533618,1287,Search-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,85441,128,8,18,https://www.swiggy.com:443/search,329,0,0
+1789572520346,14576,JioMart-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921953,260,10,18,https://www.jiomart.com/,118,0,81
+1789572520346,118,JioMart-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,141,10,18,https://jiomart.com/sections/quick-grocery-new,118,0,81
+1789572520465,14457,JioMart-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921465,119,10,18,https://www.jiomart.com/,65,0,24
+1789572533499,1504,Corporate-HTTP Request,200,OK,Thread Group2 2-10,text,true,,355580,256,8,18,https://www.swiggy.com:443/corporate/,57,0,0
+1789572533499,57,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,344,124,8,18,https://swiggy.com/corporate/,57,0,0
+1789572533556,1447,Corporate-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,355236,132,8,18,https://www.swiggy.com:443/corporate/,981,0,0
+1789572534424,648,Suport-HTTP Request,200,OK,Thread Group2 2-2,text,true,,88789,250,8,18,https://www.swiggy.com:443/support,86,0,0
+1789572534424,86,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,341,121,8,18,https://swiggy.com/support,86,0,0
+1789572534510,562,Suport-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,88448,129,8,18,https://www.swiggy.com:443/support,179,0,0
+1789572534179,895,Offers-HTTP Request,200,OK,Thread Group2 2-5,text,true,,342128,264,8,18,https://www.swiggy.com:443/offers-near-me,66,0,0
+1789572534179,66,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,348,128,8,18,https://swiggy.com/offers-near-me,66,0,0
+1789572534245,829,Offers-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,341780,136,8,18,https://www.swiggy.com:443/offers-near-me,598,0,0
+1789572535003,291,Search-HTTP Request,200,OK,Thread Group2 2-10,text,true,,85787,248,8,18,https://www.swiggy.com:443/search,70,0,0
+1789572535003,70,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,340,120,8,18,https://swiggy.com/search,70,0,0
+1789572535073,221,Search-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,85447,128,8,18,https://www.swiggy.com:443/search,141,0,0
+1789572534202,1167,Offers-HTTP Request,200,OK,Thread Group2 2-6,text,true,,338418,264,8,18,https://www.swiggy.com:443/offers-near-me,60,0,0
+1789572534202,60,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,348,128,8,18,https://swiggy.com/offers-near-me,60,0,0
+1789572534263,1106,Offers-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,338070,136,8,18,https://www.swiggy.com:443/offers-near-me,513,0,0
+1789572535073,316,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-2,text,true,,90753,258,8,18,https://www.swiggy.com:443/restaurants,61,0,0
+1789572535073,61,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,345,125,8,18,https://swiggy.com/restaurants,61,0,0
+1789572535134,255,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,90408,133,8,18,https://www.swiggy.com:443/restaurants,235,0,0
+1789572534600,1092,Offers-HTTP Request,200,OK,Thread Group2 2-7,text,true,,338418,264,8,18,https://www.swiggy.com:443/offers-near-me,391,0,0
+1789572534600,391,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,348,128,8,18,https://swiggy.com/offers-near-me,391,0,0
+1789572534991,701,Offers-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,338070,136,8,18,https://www.swiggy.com:443/offers-near-me,524,0,0
+1789572535074,645,Suport-HTTP Request,200,OK,Thread Group2 2-5,text,true,,88796,250,8,18,https://www.swiggy.com:443/support,81,0,0
+1789572535074,81,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-5,text,true,,341,121,8,18,https://swiggy.com/support,81,0,0
+1789572535155,564,Suport-HTTP Request-1,200,OK,Thread Group2 2-5,text,true,,88455,129,8,18,https://www.swiggy.com:443/support,219,0,0
+1789572535369,360,Suport-HTTP Request,200,OK,Thread Group2 2-6,text,true,,88796,250,7,17,https://www.swiggy.com:443/support,61,0,0
+1789572535369,61,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,341,121,7,17,https://swiggy.com/support,61,0,0
+1789572535430,299,Suport-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,88455,129,7,17,https://www.swiggy.com:443/support,141,0,0
+1789572534572,1201,Offers-HTTP Request,200,OK,Thread Group2 2-4,text,true,,338418,264,7,17,https://www.swiggy.com:443/offers-near-me,69,0,0
+1789572534572,69,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,348,128,7,17,https://swiggy.com/offers-near-me,69,0,0
+1789572534641,1132,Offers-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,338070,136,7,17,https://www.swiggy.com:443/offers-near-me,471,0,0
+1789572535692,288,Suport-HTTP Request,200,OK,Thread Group2 2-7,text,true,,88779,250,7,17,https://www.swiggy.com:443/support,81,0,0
+1789572535692,81,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,341,121,7,17,https://swiggy.com/support,81,0,0
+1789572535773,207,Suport-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,88438,129,7,17,https://www.swiggy.com:443/support,144,0,0
+1789572527884,8131,Corporate-HTTP Request,200,OK,Thread Group2 2-1,text,true,,355521,256,7,17,https://www.swiggy.com:443/corporate/,60,0,0
+1789572527884,60,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,344,124,7,17,https://swiggy.com/corporate/,60,0,0
+1789572527944,8071,Corporate-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,355177,132,7,17,https://www.swiggy.com:443/corporate/,1734,0,0
+1789572535729,480,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-6,text,true,,90751,258,7,17,https://www.swiggy.com:443/restaurants,82,0,0
+1789572535774,435,Suport-HTTP Request,200,OK,Thread Group2 2-4,text,true,,88811,250,7,17,https://www.swiggy.com:443/support,56,0,0
+1789572535729,82,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,345,125,7,17,https://swiggy.com/restaurants,82,0,0
+1789572535774,56,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-4,text,true,,341,121,7,17,https://swiggy.com/support,56,0,0
+1789572535811,398,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,90406,133,7,17,https://www.swiggy.com:443/restaurants,173,0,0
+1789572535830,379,Suport-HTTP Request-1,200,OK,Thread Group2 2-4,text,true,,88470,129,7,17,https://www.swiggy.com:443/support,154,0,0
+1789572535295,937,Offers-HTTP Request,200,OK,Thread Group2 2-10,text,true,,338418,264,6,16,https://www.swiggy.com:443/offers-near-me,65,0,0
+1789572535295,65,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,348,128,6,16,https://swiggy.com/offers-near-me,65,0,0
+1789572535361,871,Offers-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,338070,136,6,16,https://www.swiggy.com:443/offers-near-me,464,0,0
+1789572535980,283,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-7,text,true,,90722,258,6,16,https://www.swiggy.com:443/restaurants,77,0,0
+1789572535980,77,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,345,125,6,16,https://swiggy.com/restaurants,77,0,0
+1789572536057,206,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,90377,133,6,16,https://www.swiggy.com:443/restaurants,138,0,0
+1789572536015,320,Search-HTTP Request,200,OK,Thread Group2 2-1,text,true,,85788,248,6,16,https://www.swiggy.com:443/search,73,0,0
+1789572536015,73,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,340,120,6,16,https://swiggy.com/search,73,0,0
+1789572536088,247,Search-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,85448,128,6,16,https://www.swiggy.com:443/search,151,0,0
+1789572536232,364,Suport-HTTP Request,200,OK,Thread Group2 2-10,text,true,,88803,250,6,16,https://www.swiggy.com:443/support,69,0,0
+1789572536232,69,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-10,text,true,,341,121,6,16,https://swiggy.com/support,69,0,0
+1789572536301,295,Suport-HTTP Request-1,200,OK,Thread Group2 2-10,text,true,,88462,129,6,16,https://www.swiggy.com:443/support,212,0,0
+1789572532308,4333,Coupons-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,261,10,15,https://www.jiomart.com/,46,0,0
+1789572532308,46,Coupons-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,142,10,15,https://jiomart.com/sections/happy-hour-coupons,46,0,0
+1789572532355,4286,Coupons-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,15,https://www.jiomart.com/,39,0,0
+1789572535389,1545,Corporate-HTTP Request,200,OK,Thread Group2 2-2,text,true,,355436,256,5,15,https://www.swiggy.com:443/corporate/,73,0,0
+1789572535389,73,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,344,124,5,15,https://swiggy.com/corporate/,73,0,0
+1789572535462,1472,Corporate-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,355092,132,5,15,https://www.swiggy.com:443/corporate/,1155,0,0
+1789572536335,778,Offers-HTTP Request,200,OK,Thread Group2 2-1,text,true,,338418,264,5,15,https://www.swiggy.com:443/offers-near-me,66,0,0
+1789572536335,66,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,348,128,5,15,https://swiggy.com/offers-near-me,66,0,0
+1789572536401,712,Offers-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,338070,136,5,15,https://www.swiggy.com:443/offers-near-me,480,0,0
+1789572536935,572,Search-HTTP Request,200,OK,Thread Group2 2-2,text,true,,85804,248,5,15,https://www.swiggy.com:443/search,358,0,0
+1789572536935,358,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,340,120,5,15,https://swiggy.com/search,358,0,0
+1789572537293,214,Search-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,85464,128,5,15,https://www.swiggy.com:443/search,141,0,0
+1789572534266,3550,Coupons-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921962,261,10,15,https://www.jiomart.com/,41,0,0
+1789572534266,41,Coupons-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,142,10,15,https://jiomart.com/sections/happy-hour-coupons,41,0,0
+1789572534307,3509,Coupons-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921499,119,10,15,https://www.jiomart.com/,47,0,0
+1789572530662,7227,HotDeals-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921963,252,10,15,https://www.jiomart.com/,32,0,0
+1789572530662,32,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,133,10,15,https://jiomart.com/sections/hot-deals,32,0,0
+1789572530694,7195,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,15,https://www.jiomart.com/,55,0,0
+1789572532434,5456,Beauty-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921966,266,10,15,https://www.jiomart.com/,34,0,0
+1789572532434,34,Beauty-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,147,10,15,https://jiomart.com/sections/quick-beauty-and-beyond,34,0,0
+1789572532468,5422,Beauty-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921478,119,10,15,https://www.jiomart.com/,81,0,0
+1789572532280,5694,Beauty-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921968,266,10,15,https://www.jiomart.com/,36,0,0
+1789572532280,36,Beauty-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,147,10,15,https://jiomart.com/sections/quick-beauty-and-beyond,36,0,0
+1789572532316,5658,Beauty-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921480,119,10,15,https://www.jiomart.com/,47,0,0
+1789572536264,1742,Corporate-HTTP Request,200,OK,Thread Group2 2-7,text,true,,355521,256,5,15,https://www.swiggy.com:443/corporate/,78,0,0
+1789572536264,78,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,344,124,5,15,https://swiggy.com/corporate/,78,0,0
+1789572536342,1664,Corporate-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,355177,132,5,15,https://www.swiggy.com:443/corporate/,1166,0,0
+1789572536210,1843,Corporate-HTTP Request,200,OK,Thread Group2 2-6,text,true,,355559,256,5,15,https://www.swiggy.com:443/corporate/,49,0,0
+1789572536210,49,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,344,124,5,15,https://swiggy.com/corporate/,49,0,0
+1789572536259,1794,Corporate-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,355215,132,5,15,https://www.swiggy.com:443/corporate/,1209,0,0
+1789572533555,4524,Beauty-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921965,266,10,15,https://www.jiomart.com/,39,0,0
+1789572533555,39,Beauty-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,147,10,15,https://jiomart.com/sections/quick-beauty-and-beyond,39,0,0
+1789572533594,4485,Beauty-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921477,119,10,15,https://www.jiomart.com/,122,0,0
+1789572537113,1011,Suport-HTTP Request,200,OK,Thread Group2 2-1,text,true,,88774,250,5,15,https://www.swiggy.com:443/support,110,0,0
+1789572537113,110,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,341,121,5,15,https://swiggy.com/support,110,0,0
+1789572537223,901,Suport-HTTP Request-1,200,OK,Thread Group2 2-1,text,true,,88433,129,5,15,https://www.swiggy.com:443/support,137,0,0
+1789572523092,15038,Appliances-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6922224,387,10,14,https://www.jiomart.com/,34,0,0
+1789572523092,34,Appliances-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,249,135,10,14,https://jiomart.com/./sections/quick-sda,34,0,0
+1789572523126,35,Appliances-HTTP Request-1,302,Found,Thread Group1 1-4,text,true,,488,133,10,14,https://jiomart.com/sections/quick-sda,35,0,0
+1789572523161,14969,Appliances-HTTP Request-2,200,OK,Thread Group1 1-4,text,true,,6921487,119,10,14,https://www.jiomart.com/,41,0,0
+1789572537508,676,Offers-HTTP Request,200,OK,Thread Group2 2-2,text,true,,338418,264,4,14,https://www.swiggy.com:443/offers-near-me,73,0,0
+1789572537508,73,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,348,128,4,14,https://swiggy.com/offers-near-me,73,0,0
+1789572537581,603,Offers-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,338070,136,4,14,https://www.swiggy.com:443/offers-near-me,472,0,0
+1789572538007,335,Search-HTTP Request,200,OK,Thread Group2 2-7,text,true,,85795,248,4,14,https://www.swiggy.com:443/search,102,0,0
+1789572538007,102,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,340,120,4,14,https://swiggy.com/search,102,0,0
+1789572538109,233,Search-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,85455,128,4,14,https://www.swiggy.com:443/search,142,0,0
+1789572538053,428,Search-HTTP Request,200,OK,Thread Group2 2-6,text,true,,85795,248,4,14,https://www.swiggy.com:443/search,81,0,0
+1789572538053,81,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,340,120,4,14,https://swiggy.com/search,81,0,0
+1789572538134,347,Search-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,85455,128,4,14,https://www.swiggy.com:443/search,183,0,0
+1789572538184,308,Suport-HTTP Request,200,OK,Thread Group2 2-2,text,true,,88781,250,4,14,https://www.swiggy.com:443/support,50,0,0
+1789572538184,50,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,341,121,4,14,https://swiggy.com/support,50,0,0
+1789572538235,257,Suport-HTTP Request-1,200,OK,Thread Group2 2-2,text,true,,88440,129,4,14,https://www.swiggy.com:443/support,196,0,0
+1789572533075,5865,Beauty-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921953,266,10,13,https://www.jiomart.com/,41,0,0
+1789572533075,41,Beauty-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,147,10,13,https://jiomart.com/sections/quick-beauty-and-beyond,41,0,0
+1789572533116,5824,Beauty-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921465,119,10,13,https://www.jiomart.com/,66,0,0
+1789572538342,915,Offers-HTTP Request,200,OK,Thread Group2 2-7,text,true,,342128,264,3,13,https://www.swiggy.com:443/offers-near-me,79,0,0
+1789572538342,79,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,348,128,3,13,https://swiggy.com/offers-near-me,79,0,0
+1789572538421,836,Offers-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,341780,136,3,13,https://www.swiggy.com:443/offers-near-me,559,0,0
+1789572534906,4388,Offers-HTTP Request,200,OK,Thread Group2 2-9,text,true,,342127,264,3,13,https://www.swiggy.com:443/offers-near-me,54,0,0
+1789572534906,54,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,348,128,3,13,https://swiggy.com/offers-near-me,54,0,0
+1789572534960,4334,Offers-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,341779,136,3,13,https://www.swiggy.com:443/offers-near-me,682,0,0
+1789572539258,304,Suport-HTTP Request,200,OK,Thread Group2 2-7,text,true,,88788,250,3,13,https://www.swiggy.com:443/support,84,0,0
+1789572539258,84,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-7,text,true,,341,121,3,13,https://swiggy.com/support,84,0,0
+1789572539343,219,Suport-HTTP Request-1,200,OK,Thread Group2 2-7,text,true,,88447,129,3,13,https://www.swiggy.com:443/support,147,0,0
+1789572539294,423,Suport-HTTP Request,200,OK,Thread Group2 2-9,text,true,,88810,250,2,12,https://www.swiggy.com:443/support,50,0,0
+1789572539294,50,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,341,121,2,12,https://swiggy.com/support,50,0,0
+1789572539344,373,Suport-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,88469,129,2,12,https://www.swiggy.com:443/support,188,0,0
+1789572538482,1387,Offers-HTTP Request,200,OK,Thread Group2 2-6,text,true,,338418,264,2,12,https://www.swiggy.com:443/offers-near-me,60,0,0
+1789572538482,60,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,348,128,2,12,https://swiggy.com/offers-near-me,60,0,0
+1789572538542,1327,Offers-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,338070,136,2,12,https://www.swiggy.com:443/offers-near-me,533,0,0
+1789572539718,379,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-9,text,true,,90731,258,2,12,https://www.swiggy.com:443/restaurants,63,0,0
+1789572539718,63,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,345,125,2,12,https://swiggy.com/restaurants,63,0,0
+1789572539782,315,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,90386,133,2,12,https://www.swiggy.com:443/restaurants,160,0,0
+1789572539870,380,Suport-HTTP Request,200,OK,Thread Group2 2-6,text,true,,88817,250,2,12,https://www.swiggy.com:443/support,64,0,0
+1789572539870,64,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-6,text,true,,341,121,2,12,https://swiggy.com/support,64,0,0
+1789572539934,316,Suport-HTTP Request-1,200,OK,Thread Group2 2-6,text,true,,88476,129,2,12,https://www.swiggy.com:443/support,145,0,0
+1789572534922,6124,Appliances-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6922212,387,10,11,https://www.jiomart.com/,42,0,0
+1789572534922,42,Appliances-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,249,135,10,11,https://jiomart.com/./sections/quick-sda,42,0,0
+1789572534964,39,Appliances-HTTP Request-1,302,Found,Thread Group1 1-8,text,true,,488,133,10,11,https://jiomart.com/sections/quick-sda,39,0,0
+1789572535003,6043,Appliances-HTTP Request-2,200,OK,Thread Group1 1-8,text,true,,6921475,119,10,11,https://www.jiomart.com/,74,0,0
+1789572534428,6915,Coupons-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921965,261,10,11,https://www.jiomart.com/,32,0,0
+1789572534428,32,Coupons-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,142,10,11,https://jiomart.com/sections/happy-hour-coupons,32,0,0
+1789572534460,6883,Coupons-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,11,https://www.jiomart.com/,82,0,0
+1789572540110,1810,Corporate-HTTP Request,200,OK,Thread Group2 2-9,text,true,,355601,256,1,11,https://www.swiggy.com:443/corporate/,347,0,0
+1789572540110,347,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,344,124,1,11,https://swiggy.com/corporate/,347,0,0
+1789572540457,1463,Corporate-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,355257,132,1,11,https://www.swiggy.com:443/corporate/,1001,0,0
+1789572537817,4235,Beauty-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921950,266,10,11,https://www.jiomart.com/,45,0,0
+1789572537817,45,Beauty-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,147,10,11,https://jiomart.com/sections/quick-beauty-and-beyond,45,0,0
+1789572537862,4190,Beauty-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921487,119,10,11,https://www.jiomart.com/,43,0,0
+1789572541920,255,Search-HTTP Request,200,OK,Thread Group2 2-9,text,true,,85781,248,1,11,https://www.swiggy.com:443/search,60,0,0
+1789572541920,60,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,340,120,1,11,https://swiggy.com/search,60,0,0
+1789572541980,195,Search-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,85441,128,1,11,https://www.swiggy.com:443/search,141,0,0
+1789572538130,4224,Coupons-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921975,261,10,11,https://www.jiomart.com/,43,0,0
+1789572538130,43,Coupons-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,142,10,11,https://jiomart.com/sections/happy-hour-coupons,43,0,0
+1789572538174,4180,Coupons-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921487,119,10,11,https://www.jiomart.com/,58,0,0
+1789572536642,6066,Beauty-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921965,266,10,11,https://www.jiomart.com/,50,0,0
+1789572536642,50,Beauty-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,147,10,11,https://jiomart.com/sections/quick-beauty-and-beyond,50,0,0
+1789572536692,6016,Beauty-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921477,119,10,11,https://www.jiomart.com/,63,0,0
+1789572538079,4810,HotDeals-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921966,252,10,11,https://www.jiomart.com/,54,0,0
+1789572538079,54,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,54,0,0
+1789572538133,4756,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,10,11,https://www.jiomart.com/,70,0,0
+1789572537890,5365,HotDeals-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921965,252,10,11,https://www.jiomart.com/,30,0,0
+1789572537890,30,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,30,0,0
+1789572537920,5335,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921477,119,10,11,https://www.jiomart.com/,52,0,0
+1789572542176,1203,Offers-HTTP Request,200,OK,Thread Group2 2-9,text,true,,338418,264,1,11,https://www.swiggy.com:443/offers-near-me,81,0,0
+1789572542176,81,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,348,128,1,11,https://swiggy.com/offers-near-me,81,0,0
+1789572542257,1122,Offers-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,338070,136,1,11,https://www.swiggy.com:443/offers-near-me,603,0,0
+1789572543380,286,Suport-HTTP Request,200,OK,Thread Group2 2-9,text,true,,88809,250,1,11,https://www.swiggy.com:443/support,56,0,0
+1789572543380,56,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,341,121,1,11,https://swiggy.com/support,56,0,0
+1789572543437,229,Suport-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,88468,129,1,11,https://www.swiggy.com:443/support,168,0,0
+1789572543666,530,SwiggyRestaurants-HTTP Request,200,OK,Thread Group2 2-9,text,true,,90715,258,1,11,https://www.swiggy.com:443/restaurants,59,0,0
+1789572543666,59,SwiggyRestaurants-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,345,125,1,11,https://swiggy.com/restaurants,59,0,0
+1789572543725,471,SwiggyRestaurants-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,90370,133,1,11,https://www.swiggy.com:443/restaurants,151,0,0
+1789572541343,3327,Beauty-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921965,266,10,11,https://www.jiomart.com/,34,0,0
+1789572541343,34,Beauty-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,147,10,11,https://jiomart.com/sections/quick-beauty-and-beyond,34,0,0
+1789572541377,3293,Beauty-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,11,https://www.jiomart.com/,61,0,0
+1789572537890,7521,JioMart-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921964,260,10,11,https://www.jiomart.com/,32,0,0
+1789572537890,33,JioMart-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,141,10,11,https://jiomart.com/sections/quick-grocery-new,32,0,0
+1789572537923,7488,JioMart-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921476,119,10,11,https://www.jiomart.com/,76,0,0
+1789572537974,7796,HotDeals-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921968,252,10,11,https://www.jiomart.com/,37,0,0
+1789572537974,38,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,37,0,0
+1789572538012,7758,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921480,119,10,11,https://www.jiomart.com/,51,0,0
+1789572544197,1716,Corporate-HTTP Request,200,OK,Thread Group2 2-9,text,true,,355470,256,1,11,https://www.swiggy.com:443/corporate/,59,0,0
+1789572544197,59,Corporate-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,344,124,1,11,https://swiggy.com/corporate/,59,0,0
+1789572544256,1657,Corporate-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,355126,132,1,11,https://www.swiggy.com:443/corporate/,1293,0,0
+1789572541046,5573,Coupons-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921963,261,10,11,https://www.jiomart.com/,41,0,0
+1789572541046,42,Coupons-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,142,10,11,https://jiomart.com/sections/happy-hour-coupons,41,0,0
+1789572541088,5531,Coupons-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921475,119,10,11,https://www.jiomart.com/,56,0,0
+1789572542891,4570,JioMart-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921966,260,10,11,https://www.jiomart.com/,66,0,0
+1789572542891,66,JioMart-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,141,10,11,https://jiomart.com/sections/quick-grocery-new,66,0,0
+1789572542957,4504,JioMart-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,10,11,https://www.jiomart.com/,70,0,0
+1789572542354,5191,Beauty-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921963,266,10,11,https://www.jiomart.com/,43,0,0
+1789572542354,43,Beauty-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,147,10,11,https://jiomart.com/sections/quick-beauty-and-beyond,43,0,0
+1789572542397,5148,Beauty-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921475,119,10,11,https://www.jiomart.com/,63,0,0
+1789572538941,8641,HotDeals-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,252,10,11,https://www.jiomart.com/,42,0,0
+1789572538941,42,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,42,0,0
+1789572538983,8599,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,11,https://www.jiomart.com/,59,0,0
+1789572542052,5653,HotDeals-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921951,252,10,11,https://www.jiomart.com/,35,0,0
+1789572542052,35,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,133,10,11,https://jiomart.com/sections/hot-deals,35,0,0
+1789572542088,5617,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921488,119,10,11,https://www.jiomart.com/,73,0,0
+1789572545914,1869,Search-HTTP Request,200,OK,Thread Group2 2-9,text,true,,85765,248,1,11,https://www.swiggy.com:443/search,53,0,0
+1789572545914,53,Search-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,340,120,1,11,https://swiggy.com/search,53,0,0
+1789572545967,1816,Search-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,85425,128,1,11,https://www.swiggy.com:443/search,210,0,0
+1789572542708,6437,HotDeals-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,252,10,11,https://www.jiomart.com/,53,0,0
+1789572542708,53,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,53,0,0
+1789572542762,6383,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,11,https://www.jiomart.com/,48,0,0
+1789572547545,2553,HotDeals-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921964,252,10,11,https://www.jiomart.com/,38,0,0
+1789572547545,38,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,133,10,11,https://jiomart.com/sections/hot-deals,38,0,0
+1789572547583,2515,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921476,119,10,11,https://www.jiomart.com/,68,0,0
+1789572547784,2607,Offers-HTTP Request,200,OK,Thread Group2 2-9,text,true,,342127,264,1,11,https://www.swiggy.com:443/offers-near-me,54,0,0
+1789572547784,54,Offers-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,348,128,1,11,https://swiggy.com/offers-near-me,54,0,0
+1789572547838,2553,Offers-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,341779,136,1,11,https://www.swiggy.com:443/offers-near-me,499,0,0
+1789572550391,363,Suport-HTTP Request,200,OK,Thread Group2 2-9,text,true,,88772,250,1,11,https://www.swiggy.com:443/support,66,0,0
+1789572550391,66,Suport-HTTP Request-0,301,Moved Permanently,Thread Group2 2-9,text,true,,341,121,1,11,https://swiggy.com/support,66,0,0
+1789572550458,296,Suport-HTTP Request-1,200,OK,Thread Group2 2-9,text,true,,88431,129,1,11,https://www.swiggy.com:443/support,150,0,0
+1789572544670,6435,HotDeals-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921965,252,10,10,https://www.jiomart.com/,33,0,0
+1789572544670,33,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,33,0,0
+1789572544703,6402,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,10,https://www.jiomart.com/,53,0,0
+1789572547582,3979,JioMart-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921966,260,10,10,https://www.jiomart.com/,40,0,0
+1789572547582,40,JioMart-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,40,0,0
+1789572547622,3939,JioMart-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921478,119,10,10,https://www.jiomart.com/,70,0,0
+1789572543255,8374,JioMart-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921967,260,10,10,https://www.jiomart.com/,35,0,0
+1789572543255,35,JioMart-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,35,0,0
+1789572543290,8339,JioMart-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921479,119,10,10,https://www.jiomart.com/,48,0,0
+1789572547706,4110,JioMart-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921938,260,10,10,https://www.jiomart.com/,42,0,0
+1789572547706,42,JioMart-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,141,10,10,https://jiomart.com/sections/quick-grocery-new,42,0,0
+1789572547748,4068,JioMart-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921475,119,10,10,https://www.jiomart.com/,57,0,0
+1789572545770,6264,JioMart-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921953,260,10,10,https://www.jiomart.com/,31,0,0
+1789572545770,31,JioMart-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,31,0,0
+1789572545802,6232,JioMart-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921465,119,10,10,https://www.jiomart.com/,65,0,0
+1789572550099,2946,JioMart-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921963,260,10,10,https://www.jiomart.com/,39,0,0
+1789572550099,39,JioMart-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,39,0,0
+1789572550138,2907,JioMart-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921475,119,10,10,https://www.jiomart.com/,44,0,0
+1789572547462,5982,Appliances-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6922203,387,10,10,https://www.jiomart.com/,34,0,0
+1789572547462,34,Appliances-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,34,0,0
+1789572547496,45,Appliances-HTTP Request-1,302,Found,Thread Group1 1-2,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,45,0,0
+1789572547542,5902,Appliances-HTTP Request-2,200,OK,Thread Group1 1-2,text,true,,6921466,119,10,10,https://www.jiomart.com/,62,0,0
+1789572545411,8103,Appliances-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6922175,387,10,10,https://www.jiomart.com/,36,0,0
+1789572545411,36,Appliances-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,224,135,10,10,https://jiomart.com/./sections/quick-sda,36,0,0
+1789572545447,30,Appliances-HTTP Request-1,302,Found,Thread Group1 1-5,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,30,0,0
+1789572545477,8037,Appliances-HTTP Request-2,200,OK,Thread Group1 1-5,text,true,,6921463,119,10,10,https://www.jiomart.com/,94,0,0
+1789572551561,3725,Appliances-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6922228,387,10,10,https://www.jiomart.com/,41,0,0
+1789572551561,41,Appliances-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,41,0,0
+1789572551602,62,Appliances-HTTP Request-1,302,Found,Thread Group1 1-7,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,62,0,0
+1789572551664,3622,Appliances-HTTP Request-2,200,OK,Thread Group1 1-7,text,true,,6921491,119,10,10,https://www.jiomart.com/,61,0,0
+1789572546619,8960,Beauty-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921963,266,10,10,https://www.jiomart.com/,39,0,0
+1789572546619,39,Beauty-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,39,0,0
+1789572546658,8921,Beauty-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921475,119,10,10,https://www.jiomart.com/,59,0,0
+1789572549146,7184,JioMart-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,260,10,10,https://www.jiomart.com/,43,0,0
+1789572549146,43,JioMart-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,43,0,0
+1789572549189,7141,JioMart-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,10,https://www.jiomart.com/,55,0,0
+1789572551630,5590,Appliances-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6922216,387,10,10,https://www.jiomart.com/,73,0,0
+1789572551630,73,Appliances-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,73,0,0
+1789572551703,37,Appliances-HTTP Request-1,302,Found,Thread Group1 1-1,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,37,0,0
+1789572551740,5480,Appliances-HTTP Request-2,200,OK,Thread Group1 1-1,text,true,,6921479,119,10,10,https://www.jiomart.com/,78,0,0
+1789572551106,6175,JioMart-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921967,260,10,10,https://www.jiomart.com/,427,0,0
+1789572551106,427,JioMart-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,427,0,0
+1789572551533,5748,JioMart-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921479,119,10,10,https://www.jiomart.com/,57,0,0
+1789572551816,6008,Appliances-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6922188,387,10,10,https://www.jiomart.com/,327,0,0
+1789572551816,327,Appliances-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,224,135,10,10,https://jiomart.com/./sections/quick-sda,327,0,0
+1789572552143,102,Appliances-HTTP Request-1,302,Found,Thread Group1 1-6,text,true,,463,133,10,10,https://jiomart.com/sections/quick-sda,102,0,0
+1789572552245,5579,Appliances-HTTP Request-2,200,OK,Thread Group1 1-6,text,true,,6921501,119,10,10,https://www.jiomart.com/,65,0,0
+1789572552034,6174,Appliances-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6922252,387,10,10,https://www.jiomart.com/,47,0,0
+1789572552034,47,Appliances-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,47,0,0
+1789572552081,77,Appliances-HTTP Request-1,302,Found,Thread Group1 1-3,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,77,0,0
+1789572552158,6050,Appliances-HTTP Request-2,200,OK,Thread Group1 1-3,text,true,,6921515,119,10,10,https://www.jiomart.com/,106,0,0
+1789572553515,4838,Coupons-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921990,261,10,10,https://www.jiomart.com/,48,0,0
+1789572553515,48,Coupons-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,48,0,0
+1789572553564,4789,Coupons-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921502,119,10,10,https://www.jiomart.com/,216,0,0
+1789572555286,4349,Coupons-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,261,10,10,https://www.jiomart.com/,37,0,0
+1789572555286,37,Coupons-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,37,0,0
+1789572555323,4312,Coupons-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,47,0,0
+1789572553045,7357,Appliances-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6922247,387,10,10,https://www.jiomart.com/,48,0,0
+1789572553045,48,Appliances-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,224,135,10,10,https://jiomart.com/./sections/quick-sda,48,0,0
+1789572553093,44,Appliances-HTTP Request-1,302,Found,Thread Group1 1-4,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,44,0,0
+1789572553137,7265,Appliances-HTTP Request-2,200,OK,Thread Group1 1-4,text,true,,6921535,119,10,10,https://www.jiomart.com/,64,0,0
+1789572553445,7460,Coupons-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6922004,261,10,10,https://www.jiomart.com/,79,0,0
+1789572553445,79,Coupons-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,79,0,0
+1789572553524,7381,Coupons-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921516,119,10,10,https://www.jiomart.com/,76,0,0
+1789572555579,6315,HotDeals-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921951,252,10,10,https://www.jiomart.com/,41,0,0
+1789572555579,41,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,41,0,0
+1789572555620,6274,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921463,119,10,10,https://www.jiomart.com/,95,0,0
+1789572557220,4874,Coupons-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921940,261,10,10,https://www.jiomart.com/,31,0,0
+1789572557220,31,Coupons-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,463,142,10,10,https://jiomart.com/sections/happy-hour-coupons,31,0,0
+1789572557251,4843,Coupons-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921477,119,10,10,https://www.jiomart.com/,58,0,0
+1789572556330,5772,Appliances-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6922212,387,10,10,https://www.jiomart.com/,41,0,0
+1789572556330,41,Appliances-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,41,0,0
+1789572556371,46,Appliances-HTTP Request-1,302,Found,Thread Group1 1-10,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,46,0,0
+1789572556417,5685,Appliances-HTTP Request-2,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,10,https://www.jiomart.com/,73,0,0
+1789572557282,4939,Appliances-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6922214,387,10,10,https://www.jiomart.com/,31,0,0
+1789572557282,31,Appliances-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,31,0,0
+1789572557313,283,Appliances-HTTP Request-1,302,Found,Thread Group1 1-9,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,283,0,0
+1789572557596,4625,Appliances-HTTP Request-2,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,10,https://www.jiomart.com/,71,0,0
+1789572559636,3080,Beauty-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921966,266,10,10,https://www.jiomart.com/,38,0,0
+1789572559636,38,Beauty-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,38,0,0
+1789572559674,3042,Beauty-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921478,119,10,10,https://www.jiomart.com/,52,0,0
+1789572557824,5263,Coupons-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921939,261,10,10,https://www.jiomart.com/,34,0,0
+1789572557824,35,Coupons-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,142,10,10,https://jiomart.com/sections/happy-hour-coupons,34,0,0
+1789572557859,5228,Coupons-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921476,119,10,10,https://www.jiomart.com/,64,0,0
+1789572560402,3464,Coupons-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921963,261,10,10,https://www.jiomart.com/,38,0,0
+1789572560402,38,Coupons-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,38,0,0
+1789572560440,3426,Coupons-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921475,119,10,10,https://www.jiomart.com/,70,0,0
+1789572558353,5743,Beauty-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921963,266,10,10,https://www.jiomart.com/,30,0,0
+1789572558353,31,Beauty-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,30,0,0
+1789572558384,5712,Beauty-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,10,https://www.jiomart.com/,55,0,0
+1789572562716,2336,HotDeals-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,252,10,10,https://www.jiomart.com/,39,0,0
+1789572562716,39,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,39,0,0
+1789572562755,2297,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,51,0,0
+1789572558209,8231,Coupons-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921941,261,10,10,https://www.jiomart.com/,33,0,0
+1789572558209,33,Coupons-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,463,142,10,10,https://jiomart.com/sections/happy-hour-coupons,33,0,0
+1789572558242,8198,Coupons-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921478,119,10,10,https://www.jiomart.com/,57,0,0
+1789572565052,2293,JioMart-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921991,260,10,10,https://www.jiomart.com/,44,0,0
+1789572565052,44,JioMart-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,44,0,0
+1789572565096,2249,JioMart-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921503,119,10,10,https://www.jiomart.com/,57,0,0
+1789572562102,5363,Coupons-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921966,261,10,10,https://www.jiomart.com/,45,0,0
+1789572562102,45,Coupons-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,45,0,0
+1789572562147,5318,Coupons-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921478,119,10,10,https://www.jiomart.com/,75,0,0
+1789572563088,5181,Beauty-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921938,266,10,10,https://www.jiomart.com/,43,0,0
+1789572563088,43,Beauty-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,43,0,0
+1789572563131,5138,Beauty-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921475,119,10,10,https://www.jiomart.com/,46,0,0
+1789572561895,7024,JioMart-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921963,260,10,10,https://www.jiomart.com/,38,0,0
+1789572561895,38,JioMart-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,38,0,0
+1789572561933,6986,JioMart-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921475,119,10,10,https://www.jiomart.com/,53,0,0
+1789572562095,6854,Beauty-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921965,266,10,10,https://www.jiomart.com/,29,0,0
+1789572562095,29,Beauty-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,29,0,0
+1789572562124,6825,Beauty-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921477,119,10,10,https://www.jiomart.com/,45,0,0
+1789572564096,5143,HotDeals-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921938,252,10,10,https://www.jiomart.com/,33,0,0
+1789572564096,33,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,463,133,10,10,https://jiomart.com/sections/hot-deals,33,0,0
+1789572564130,5109,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,10,https://www.jiomart.com/,70,0,0
+1789572562222,7371,Coupons-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921965,261,10,10,https://www.jiomart.com/,29,0,0
+1789572562222,29,Coupons-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,29,0,0
+1789572562251,7342,Coupons-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921477,119,10,10,https://www.jiomart.com/,70,0,0
+1789572560905,8989,Beauty-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921965,266,10,10,https://www.jiomart.com/,318,0,0
+1789572560905,318,Beauty-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,318,0,0
+1789572561223,8671,Beauty-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921477,119,10,10,https://www.jiomart.com/,69,0,0
+1789572567345,3098,Appliances-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6922214,387,10,10,https://www.jiomart.com/,35,0,0
+1789572567345,35,Appliances-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,35,0,0
+1789572567380,50,Appliances-HTTP Request-1,302,Found,Thread Group1 1-7,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,50,0,0
+1789572567430,3013,Appliances-HTTP Request-2,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,66,0,0
+1789572569239,3228,JioMart-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921964,260,10,10,https://www.jiomart.com/,31,0,0
+1789572569239,31,JioMart-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,31,0,0
+1789572569271,3196,JioMart-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921476,119,10,10,https://www.jiomart.com/,69,0,0
+1789572568270,4882,HotDeals-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921926,252,10,10,https://www.jiomart.com/,39,0,0
+1789572568270,39,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,133,10,10,https://jiomart.com/sections/hot-deals,39,0,0
+1789572568310,4842,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921463,119,10,10,https://www.jiomart.com/,47,0,0
+1789572563867,9337,Beauty-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921940,266,10,10,https://www.jiomart.com/,319,0,0
+1789572563867,319,Beauty-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,319,0,0
+1789572564186,9018,Beauty-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921452,119,10,10,https://www.jiomart.com/,78,0,0
+1789572569894,3382,HotDeals-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921966,252,10,10,https://www.jiomart.com/,38,0,0
+1789572569894,38,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,38,0,0
+1789572569932,3344,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,10,10,https://www.jiomart.com/,54,0,0
+1789572567465,5904,Beauty-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,266,10,10,https://www.jiomart.com/,47,0,0
+1789572567465,47,Beauty-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,47,0,0
+1789572567512,5857,Beauty-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,10,https://www.jiomart.com/,93,0,0
+1789572568949,4545,HotDeals-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921965,252,10,10,https://www.jiomart.com/,31,0,0
+1789572568949,31,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,31,0,0
+1789572568981,4513,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921477,119,10,10,https://www.jiomart.com/,63,0,0
+1789572570446,4458,Coupons-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,261,10,10,https://www.jiomart.com/,318,0,0
+1789572570446,318,Coupons-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,142,10,10,https://jiomart.com/sections/happy-hour-coupons,318,0,0
+1789572570764,4140,Coupons-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,70,0,0
+1789572566441,8477,Beauty-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921965,266,10,10,https://www.jiomart.com/,34,0,0
+1789572566441,34,Beauty-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,34,0,0
+1789572566475,8443,Beauty-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921477,119,10,10,https://www.jiomart.com/,60,0,0
+1789572573277,3240,JioMart-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921940,260,10,10,https://www.jiomart.com/,44,0,0
+1789572573277,44,JioMart-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,463,141,10,10,https://jiomart.com/sections/quick-grocery-new,44,0,0
+1789572573321,3196,JioMart-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921477,119,10,10,https://www.jiomart.com/,53,0,0
+1789572573370,3183,HotDeals-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921939,252,10,10,https://www.jiomart.com/,47,0,0
+1789572573370,47,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,463,133,10,10,https://jiomart.com/sections/hot-deals,47,0,0
+1789572573417,3136,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921476,119,10,10,https://www.jiomart.com/,48,0,0
+1789572574904,2672,Beauty-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,266,10,10,https://www.jiomart.com/,37,0,0
+1789572574904,37,Beauty-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,147,10,10,https://jiomart.com/sections/quick-beauty-and-beyond,37,0,0
+1789572574941,2635,Beauty-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,63,0,0
+1789572573153,4993,JioMart-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921938,260,10,10,https://www.jiomart.com/,36,0,0
+1789572573153,36,JioMart-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,463,141,10,10,https://jiomart.com/sections/quick-grocery-new,36,0,0
+1789572573189,4957,JioMart-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921475,119,10,10,https://www.jiomart.com/,63,0,0
+1789572572467,5712,Appliances-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6922212,387,10,10,https://www.jiomart.com/,31,0,0
+1789572572467,31,Appliances-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,249,135,10,10,https://jiomart.com/./sections/quick-sda,31,0,0
+1789572572498,31,Appliances-HTTP Request-1,302,Found,Thread Group1 1-5,text,true,,488,133,10,10,https://jiomart.com/sections/quick-sda,31,0,0
+1789572572529,5650,Appliances-HTTP Request-2,200,OK,Thread Group1 1-5,text,true,,6921475,119,10,10,https://www.jiomart.com/,66,0,0
+1789572573495,5184,JioMart-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921942,260,10,10,https://www.jiomart.com/,29,0,0
+1789572573495,29,JioMart-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,29,0,0
+1789572573524,5155,JioMart-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921454,119,10,10,https://www.jiomart.com/,86,0,0
+1789572576553,2916,JioMart-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,260,10,10,https://www.jiomart.com/,43,0,0
+1789572576553,44,JioMart-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,141,10,10,https://jiomart.com/sections/quick-grocery-new,43,0,0
+1789572576597,2872,JioMart-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,10,10,https://www.jiomart.com/,46,0,0
+1789572577575,3441,HotDeals-HTTP Request,200,OK,Thread Group1 1-7,text,true,,6921965,252,10,10,https://www.jiomart.com/,38,0,0
+1789572577575,38,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-7,text,true,,488,133,10,10,https://jiomart.com/sections/hot-deals,38,0,0
+1789572577613,3403,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-7,text,true,,6921477,119,10,10,https://www.jiomart.com/,42,0,0
+1789572569594,11525,Beauty-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921953,266,9,9,https://www.jiomart.com/,33,0,0
+1789572569594,33,Beauty-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,147,9,9,https://jiomart.com/sections/quick-beauty-and-beyond,33,0,0
+1789572569627,11492,Beauty-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921465,119,9,9,https://www.jiomart.com/,88,0,0
+1789572578145,3218,Appliances-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6922150,387,9,9,https://www.jiomart.com/,42,0,0
+1789572578145,42,Appliances-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,224,135,9,9,https://jiomart.com/./sections/quick-sda,42,0,0
+1789572578187,41,Appliances-HTTP Request-1,302,Found,Thread Group1 1-6,text,true,,463,133,9,9,https://jiomart.com/sections/quick-sda,41,0,0
+1789572578228,3135,Appliances-HTTP Request-2,200,OK,Thread Group1 1-6,text,true,,6921463,119,9,9,https://www.jiomart.com/,59,0,0
+1789572573205,8518,HotDeals-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921963,252,9,9,https://www.jiomart.com/,877,0,0
+1789572573205,877,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,488,133,9,9,https://jiomart.com/sections/hot-deals,877,0,0
+1789572574082,7641,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921475,119,9,9,https://www.jiomart.com/,68,0,0
+1789572576518,5451,Appliances-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6922178,387,9,9,https://www.jiomart.com/,34,0,0
+1789572576518,34,Appliances-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,249,135,9,9,https://jiomart.com/./sections/quick-sda,34,0,0
+1789572576553,49,Appliances-HTTP Request-1,302,Found,Thread Group1 1-2,text,true,,488,133,9,9,https://jiomart.com/sections/quick-sda,49,0,0
+1789572576603,5366,Appliances-HTTP Request-2,200,OK,Thread Group1 1-2,text,true,,6921441,119,9,9,https://www.jiomart.com/,80,0,0
+1789572579468,2856,Appliances-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6922214,387,9,9,https://www.jiomart.com/,46,0,0
+1789572579468,46,Appliances-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,249,135,9,9,https://jiomart.com/./sections/quick-sda,46,0,0
+1789572579514,58,Appliances-HTTP Request-1,302,Found,Thread Group1 1-10,text,true,,488,133,9,9,https://jiomart.com/sections/quick-sda,58,0,0
+1789572579572,2752,Appliances-HTTP Request-2,200,OK,Thread Group1 1-10,text,true,,6921477,119,9,9,https://www.jiomart.com/,64,0,0
+1789572568920,13868,Appliances-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6922213,387,9,9,https://www.jiomart.com/,43,0,0
+1789572568920,43,Appliances-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,249,135,9,9,https://jiomart.com/./sections/quick-sda,43,0,0
+1789572568964,37,Appliances-HTTP Request-1,302,Found,Thread Group1 1-8,text,true,,488,133,9,9,https://jiomart.com/sections/quick-sda,37,0,0
+1789572569001,13787,Appliances-HTTP Request-2,200,OK,Thread Group1 1-8,text,true,,6921476,119,9,9,https://www.jiomart.com/,98,0,0
+1789572578679,4136,Appliances-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6922153,387,9,9,https://www.jiomart.com/,134,0,104
+1789572578679,134,Appliances-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,224,135,9,9,https://jiomart.com/./sections/quick-sda,134,0,104
+1789572578813,35,Appliances-HTTP Request-1,302,Found,Thread Group1 1-1,text,true,,463,133,9,9,https://jiomart.com/sections/quick-sda,35,0,0
+1789572578848,3967,Appliances-HTTP Request-2,200,OK,Thread Group1 1-1,text,true,,6921466,119,9,9,https://www.jiomart.com/,147,0,77
+1789572574919,7915,HotDeals-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921965,252,9,9,https://www.jiomart.com/,34,0,0
+1789572574919,34,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,133,9,9,https://jiomart.com/sections/hot-deals,34,0,0
+1789572574954,7880,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921477,119,9,9,https://www.jiomart.com/,56,0,0
+1789572581722,2496,JioMart-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921928,260,9,9,https://www.jiomart.com/,86,0,57
+1789572581722,86,JioMart-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,463,141,9,9,https://jiomart.com/sections/quick-grocery-new,86,0,57
+1789572581808,2410,JioMart-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921465,119,9,9,https://www.jiomart.com/,82,0,16
+1789572581969,2251,Coupons-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6922011,261,9,9,https://www.jiomart.com/,384,0,339
+1789572581969,384,Coupons-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,142,9,9,https://jiomart.com/sections/happy-hour-coupons,384,0,339
+1789572582353,1867,Coupons-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921523,119,9,9,https://www.jiomart.com/,349,0,46
+1789572578178,6336,Coupons-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921939,261,9,9,https://www.jiomart.com/,36,0,0
+1789572578178,36,Coupons-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,463,142,9,9,https://jiomart.com/sections/happy-hour-coupons,36,0,0
+1789572578215,6299,Coupons-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921476,119,9,9,https://www.jiomart.com/,54,0,0
+1789572581364,5294,Coupons-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921954,261,9,9,https://www.jiomart.com/,135,0,94
+1789572581364,135,Coupons-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,488,142,9,9,https://jiomart.com/sections/happy-hour-coupons,135,0,94
+1789572581499,5159,Coupons-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921466,119,9,9,https://www.jiomart.com/,1075,0,1017
+1789572581118,6191,HotDeals-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921953,252,9,9,https://www.jiomart.com/,109,0,74
+1789572581118,110,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,133,9,9,https://jiomart.com/sections/hot-deals,109,0,74
+1789572581228,6081,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921465,119,9,9,https://www.jiomart.com/,58,0,15
+1789572582835,4862,JioMart-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921943,260,9,9,https://www.jiomart.com/,355,0,315
+1789572582835,355,JioMart-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,141,9,9,https://jiomart.com/sections/quick-grocery-new,355,0,315
+1789572583190,4507,JioMart-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921455,119,9,9,https://www.jiomart.com/,492,0,234
+1789572584220,3487,Beauty-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921941,266,9,9,https://www.jiomart.com/,42,0,0
+1789572584220,42,Beauty-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,463,147,9,9,https://jiomart.com/sections/quick-beauty-and-beyond,42,0,0
+1789572584262,3445,Beauty-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,9,9,https://www.jiomart.com/,46,0,0
+1789572584220,5336,Appliances-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6922166,387,9,9,https://www.jiomart.com/,261,0,0
+1789572584220,261,Appliances-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,224,135,9,9,https://jiomart.com/./sections/quick-sda,261,0,0
+1789572584481,30,Appliances-HTTP Request-1,302,Found,Thread Group1 1-4,text,true,,463,133,9,9,https://jiomart.com/sections/quick-sda,30,0,0
+1789572584511,5045,Appliances-HTTP Request-2,200,OK,Thread Group1 1-4,text,true,,6921479,119,9,9,https://www.jiomart.com/,45,0,0
+1789572582325,7435,Coupons-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921952,261,9,9,https://www.jiomart.com/,111,0,73
+1789572582325,111,Coupons-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,142,9,9,https://jiomart.com/sections/happy-hour-coupons,111,0,73
+1789572582436,7324,Coupons-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921464,119,9,9,https://www.jiomart.com/,63,0,23
+1789572586660,3262,Beauty-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921968,266,9,9,https://www.jiomart.com/,43,0,0
+1789572586660,43,Beauty-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,488,147,9,9,https://jiomart.com/sections/quick-beauty-and-beyond,43,0,0
+1789572586703,3219,Beauty-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921480,119,9,9,https://www.jiomart.com/,54,0,0
+1789572582816,7640,Coupons-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921941,261,9,9,https://www.jiomart.com/,36,0,0
+1789572582816,36,Coupons-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,463,142,9,9,https://jiomart.com/sections/happy-hour-coupons,36,0,0
+1789572582852,7604,Coupons-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921478,119,9,9,https://www.jiomart.com/,57,0,0
+1789572582788,8079,Coupons-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921951,261,9,9,https://www.jiomart.com/,354,0,76
+1789572582788,354,Coupons-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,142,9,9,https://jiomart.com/sections/happy-hour-coupons,354,0,76
+1789572583142,7725,Coupons-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921463,119,9,9,https://www.jiomart.com/,66,0,16
+1789572587698,3711,Appliances-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6922212,387,9,9,https://www.jiomart.com/,36,0,0
+1789572587698,36,Appliances-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,249,135,9,9,https://jiomart.com/./sections/quick-sda,36,0,0
+1789572587735,36,Appliances-HTTP Request-1,302,Found,Thread Group1 1-3,text,true,,488,133,9,9,https://jiomart.com/sections/quick-sda,36,0,0
+1789572587772,3637,Appliances-HTTP Request-2,200,OK,Thread Group1 1-3,text,true,,6921475,119,9,9,https://www.jiomart.com/,39,0,0
+1789572584515,7173,Beauty-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921953,266,9,9,https://www.jiomart.com/,114,0,73
+1789572584515,114,Beauty-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,147,9,9,https://jiomart.com/sections/quick-beauty-and-beyond,114,0,73
+1789572584629,7059,Beauty-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921465,119,9,9,https://www.jiomart.com/,59,0,14
+1789572589556,3092,Coupons-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921940,261,9,9,https://www.jiomart.com/,32,0,0
+1789572589556,32,Coupons-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,463,142,9,9,https://jiomart.com/sections/happy-hour-coupons,32,0,0
+1789572589588,3060,Coupons-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921477,119,9,9,https://www.jiomart.com/,46,0,0
+1789572587310,5919,JioMart-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921965,260,9,9,https://www.jiomart.com/,39,0,0
+1789572587310,39,JioMart-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,141,9,9,https://jiomart.com/sections/quick-grocery-new,39,0,0
+1789572587350,5879,JioMart-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921477,119,9,9,https://www.jiomart.com/,64,0,0
+1789572589760,4047,Beauty-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921963,266,9,9,https://www.jiomart.com/,37,0,0
+1789572589760,37,Beauty-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,147,9,9,https://jiomart.com/sections/quick-beauty-and-beyond,37,0,0
+1789572589798,4009,Beauty-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921475,119,9,9,https://www.jiomart.com/,46,0,0
+1789572587707,6569,HotDeals-HTTP Request,200,OK,Thread Group1 1-2,text,true,,6921966,252,9,9,https://www.jiomart.com/,44,0,0
+1789572587707,44,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-2,text,true,,488,133,9,9,https://jiomart.com/sections/hot-deals,44,0,0
+1789572587751,6525,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-2,text,true,,6921478,119,9,9,https://www.jiomart.com/,77,0,0
+1789572592647,2777,Beauty-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921941,266,8,8,https://www.jiomart.com/,34,0,0
+1789572592647,34,Beauty-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,463,147,8,8,https://jiomart.com/sections/quick-beauty-and-beyond,34,0,0
+1789572592681,2743,Beauty-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921478,119,8,8,https://www.jiomart.com/,43,0,0
+1789572591688,3826,HotDeals-HTTP Request,200,OK,Thread Group1 1-5,text,true,,6921953,252,8,8,https://www.jiomart.com/,47,0,0
+1789572591688,47,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-5,text,true,,488,133,8,8,https://jiomart.com/sections/hot-deals,47,0,0
+1789572591735,3779,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-5,text,true,,6921465,119,8,8,https://www.jiomart.com/,107,0,0
+1789572590867,5078,Beauty-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921963,266,7,7,https://www.jiomart.com/,40,0,0
+1789572590867,40,Beauty-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,147,7,7,https://jiomart.com/sections/quick-beauty-and-beyond,40,0,0
+1789572590908,5037,Beauty-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921475,119,7,7,https://www.jiomart.com/,89,0,0
+1789572593229,3107,Appliances-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6922214,387,7,7,https://www.jiomart.com/,33,0,0
+1789572593229,33,Appliances-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,249,135,7,7,https://jiomart.com/./sections/quick-sda,33,0,0
+1789572593262,34,Appliances-HTTP Request-1,302,Found,Thread Group1 1-9,text,true,,488,133,7,7,https://jiomart.com/sections/quick-sda,34,0,0
+1789572593296,3040,Appliances-HTTP Request-2,200,OK,Thread Group1 1-9,text,true,,6921477,119,7,7,https://www.jiomart.com/,53,0,0
+1789572589922,6991,HotDeals-HTTP Request,200,OK,Thread Group1 1-6,text,true,,6921965,252,7,7,https://www.jiomart.com/,39,0,0
+1789572589922,39,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-6,text,true,,488,133,7,7,https://jiomart.com/sections/hot-deals,39,0,0
+1789572589962,6951,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-6,text,true,,6921477,119,7,7,https://www.jiomart.com/,42,0,0
+1789572590456,6677,Beauty-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921941,266,6,6,https://www.jiomart.com/,35,0,0
+1789572590456,35,Beauty-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,463,147,6,6,https://jiomart.com/sections/quick-beauty-and-beyond,35,0,0
+1789572590491,6642,Beauty-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921478,119,6,6,https://www.jiomart.com/,57,0,0
+1789572591409,5864,Coupons-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921964,261,6,6,https://www.jiomart.com/,37,0,0
+1789572591409,37,Coupons-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,142,6,6,https://jiomart.com/sections/happy-hour-coupons,37,0,0
+1789572591446,5827,Coupons-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921476,119,6,6,https://www.jiomart.com/,44,0,0
+1789572593806,4083,HotDeals-HTTP Request,200,OK,Thread Group1 1-10,text,true,,6921987,252,6,6,https://www.jiomart.com/,36,0,0
+1789572593806,36,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-10,text,true,,488,133,6,6,https://jiomart.com/sections/hot-deals,36,0,0
+1789572593843,4046,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-10,text,true,,6921499,119,6,6,https://www.jiomart.com/,49,0,0
+1789572596337,1739,Coupons-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921953,261,5,5,https://www.jiomart.com/,36,0,0
+1789572596337,36,Coupons-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,142,5,5,https://jiomart.com/sections/happy-hour-coupons,36,0,0
+1789572596373,1703,Coupons-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921465,119,5,5,https://www.jiomart.com/,60,0,0
+1789572595424,3973,HotDeals-HTTP Request,200,OK,Thread Group1 1-4,text,true,,6921928,252,5,5,https://www.jiomart.com/,30,0,0
+1789572595424,30,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-4,text,true,,463,133,5,5,https://jiomart.com/sections/hot-deals,30,0,0
+1789572595454,3943,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-4,text,true,,6921465,119,5,5,https://www.jiomart.com/,47,0,0
+1789572598077,1340,Beauty-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921977,266,4,4,https://www.jiomart.com/,34,0,0
+1789572598077,34,Beauty-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,147,4,4,https://jiomart.com/sections/quick-beauty-and-beyond,34,0,0
+1789572598112,1305,Beauty-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921489,119,4,4,https://www.jiomart.com/,42,0,0
+1789572597133,2678,HotDeals-HTTP Request,200,OK,Thread Group1 1-1,text,true,,6921941,252,4,4,https://www.jiomart.com/,36,0,0
+1789572597133,36,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-1,text,true,,463,133,4,4,https://jiomart.com/sections/hot-deals,36,0,0
+1789572597170,2641,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-1,text,true,,6921478,119,4,4,https://www.jiomart.com/,61,0,0
+1789572597273,2633,Beauty-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921963,266,3,3,https://www.jiomart.com/,39,0,0
+1789572597273,39,Beauty-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,147,3,3,https://jiomart.com/sections/quick-beauty-and-beyond,39,0,0
+1789572597313,2593,Beauty-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921475,119,3,3,https://www.jiomart.com/,62,0,0
+1789572595944,4088,HotDeals-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921964,252,3,3,https://www.jiomart.com/,40,0,0
+1789572595944,40,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,133,3,3,https://jiomart.com/sections/hot-deals,40,0,0
+1789572595984,4048,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921476,119,3,3,https://www.jiomart.com/,52,0,0
+1789572599907,1341,HotDeals-HTTP Request,200,OK,Thread Group1 1-3,text,true,,6921999,252,3,3,https://www.jiomart.com/,37,0,0
+1789572599907,37,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-3,text,true,,488,133,3,3,https://jiomart.com/sections/hot-deals,37,0,0
+1789572599944,1304,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-3,text,true,,6921511,119,3,3,https://www.jiomart.com/,44,0,0
+1789572600034,1567,JioMart-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6921964,260,2,2,https://www.jiomart.com/,37,0,0
+1789572600034,37,JioMart-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,141,2,2,https://jiomart.com/sections/quick-grocery-new,37,0,0
+1789572600071,1530,JioMart-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6921476,119,2,2,https://www.jiomart.com/,47,0,0
+1789572599417,2262,HotDeals-HTTP Request,200,OK,Thread Group1 1-9,text,true,,6921953,252,2,2,https://www.jiomart.com/,35,0,0
+1789572599417,35,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-9,text,true,,488,133,2,2,https://jiomart.com/sections/hot-deals,35,0,0
+1789572599452,2227,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-9,text,true,,6921465,119,2,2,https://www.jiomart.com/,696,0,0
+1789572601602,717,Appliances-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6923773,387,1,1,https://www.jiomart.com/,33,0,0
+1789572601602,33,Appliances-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,249,135,1,1,https://jiomart.com/./sections/quick-sda,33,0,0
+1789572601636,36,Appliances-HTTP Request-1,302,Found,Thread Group1 1-8,text,true,,488,133,1,1,https://jiomart.com/sections/quick-sda,36,0,0
+1789572601672,647,Appliances-HTTP Request-2,200,OK,Thread Group1 1-8,text,true,,6923036,119,1,1,https://www.jiomart.com/,77,0,0
+1789572602320,547,Coupons-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6926294,261,1,1,https://www.jiomart.com/,37,0,0
+1789572602320,37,Coupons-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,463,142,1,1,https://jiomart.com/sections/happy-hour-coupons,37,0,0
+1789572602357,510,Coupons-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6925831,119,1,1,https://www.jiomart.com/,45,0,0
+1789572602867,667,Beauty-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6926415,266,1,1,https://www.jiomart.com/,37,0,0
+1789572602867,37,Beauty-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,147,1,1,https://jiomart.com/sections/quick-beauty-and-beyond,37,0,0
+1789572602905,629,Beauty-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6925927,119,1,1,https://www.jiomart.com/,40,0,0
+1789572603534,354,HotDeals-HTTP Request,200,OK,Thread Group1 1-8,text,true,,6926500,252,1,1,https://www.jiomart.com/,37,0,0
+1789572603534,37,HotDeals-HTTP Request-0,302,Found,Thread Group1 1-8,text,true,,488,133,1,1,https://jiomart.com/sections/hot-deals,37,0,0
+1789572603571,317,HotDeals-HTTP Request-1,200,OK,Thread Group1 1-8,text,true,,6926012,119,1,1,https://www.jiomart.com/,40,0,0
